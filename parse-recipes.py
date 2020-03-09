@@ -1,11 +1,11 @@
 #!/usr/bin/env python
-import urllib.request
 import json
 import re
 from bs4 import BeautifulSoup
 from nltk.tokenize import sent_tokenize
 from socket import error as SocketError
 import nltk
+import requests
 nltk.download('punkt')
 
 #
@@ -471,23 +471,31 @@ while "" in allIngredients:
 unlabeledIngredients = set()
 unlabeledRecipes = set()
 
+def get_nutrition_info(page):
+    nutrition_page = requests.get(page.url + 'fullrecipenutrition/')
+    nutrition_soup = BeautifulSoup(nutrition_page.content, "html.parser")
+    nutrition_body = nutrition_soup.find('div', class_='nutrition-body')
+    nutrition_rows = nutrition_body.find_all(class_='nutrition-row')
+    info = []
+    for row in nutrition_rows:
+        words = row.find(class_='nutrient-name').text.split(':')
+        info.append(words)
+    return info
+
 # recipes start at id~6660 and end at id=~27000
 for recipeId in range(6660, 27000):
     soup = None
     try:
-        url = "http://allrecipes.com/recipe/{}".format(recipeId)
+        url = f'http://allrecipes.com/recipe/{recipeId}'
+        page = requests.get(url)
+        if(page.status_code != 200):
+            continue
+        soup = BeautifulSoup(page.content, "html.parser")
+        nutrition_info = get_nutrition_info(page)
+    except Exception as e:
+        print(e)
+        continue
 
-        with urllib.request.urlopen(url) as response:
-            soup = BeautifulSoup(response.read(), "html.parser")
-
-    except urllib.error.HTTPError as e:
-        outputFile.write("{0}: No recipe".format(recipeId))
-        outputFile.write(e.reason)
-    except urllib.error.URLError as e:
-        outputFile.write("{0}: URL ERROR".format(recipeId))
-        outputFile.write(e.reason)
-    except SocketError as e:
-        outputFile.write("{0}: SOCKET ERROR".format(recipeId))
 
     if soup:
         titleSpan = soup.find("h1", class_="recipe-summary__h1")
@@ -853,7 +861,8 @@ for recipeId in range(6660, 27000):
                    "footnotes": footnotes,
                    "labels": allLabels,
                    "servings": servings,
-                   "calories": calories}, jsonFile, indent=4)
+                   "calories": calories,
+                   "nutrition_info": nutrition_info}, jsonFile, indent=4)
         jsonFile.write(",\n")
 
         # write data to files every 10 recipes
