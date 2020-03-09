@@ -260,6 +260,7 @@ Japanese sushi rice
 Jarlsberg cheese
 Jerusalem artichokes
 Johnsonville Three Cheese Italian Style Chicken Sausage
+Kalamata olives
 Kentucky Fruit Filling
 LAND O LAKES  Hot Pepper Monterey Jack cheese
 LAND O LAKES  Light Sour Cream
@@ -766,6 +767,7 @@ black walnut extract
 black walnuts
 blackberries
 blackberry Jell-O
+blackberry Jell-O®
 blackberry brandy
 blackberry flavored Jell-O
 blackberry jelly
@@ -2350,6 +2352,7 @@ lemon curd
 lemon extract
 lemon flavored Jell-O
 lemon flavored Jell-O mix
+lemon flavored Jell-O®
 lemon flavored ice tea mix
 lemon flavored instant tea
 lemon flavored yogurt
@@ -2797,6 +2800,7 @@ orange decorator sugar
 orange extract
 orange flavored Jell-O
 orange flavored Jell-O mix
+orange flavored Jell-O® mix
 orange flavored carbonated beverage
 orange flavored drink mix
 orange flavored fruit slice jelly candies
@@ -3814,6 +3818,7 @@ strawberry extract
 strawberry flavored Jell-O
 strawberry flavored Jell-O mix
 strawberry flavored Jell-O sugar free
+strawberry flavored Jell-O®
 strawberry flavored carbonated beverage
 strawberry flavored cream cheese
 strawberry flavored syrup

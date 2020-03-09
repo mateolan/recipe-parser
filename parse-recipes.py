@@ -7,12 +7,13 @@ from socket import error as SocketError
 import nltk
 import requests
 nltk.download('punkt')
+import sys
 
 #
 # checks whether the first argument is the same word as a plural string, checking plurals
 #
 
-
+counter = 0
 def equalCheckingPlurals(string, pluralString):
     # only check plurals if first 3 letters match
     if string[0] != pluralString[0]:
@@ -482,6 +483,31 @@ def get_nutrition_info(page):
         info.append(words)
     return info
 
+def get_ingredients_list(page):
+    soup = BeautifulSoup(page.content, 'html.parser')
+    ingredients = soup.find_all('li', class_='checkList__line')
+    ingredient_list = []
+    for line in ingredients:
+        item = line.find('label').text.strip()
+        words = item.split(' ')
+        if(words[0] == 'Add'):
+            break
+        ingredient_list.append(item)
+    return ingredient_list
+
+def get_steps(page):
+    soup = BeautifulSoup(page.content, 'html.parser')
+    steps = soup.find_all('li', class_='step')
+    ret_steps = []
+    for step in steps:
+        # print(step.text.strip())
+        cur_step = step.text.strip()
+        if(cur_step == ""):
+            break
+        ret_steps.append(cur_step)
+    return ret_steps
+
+
 # recipes start at id~6660 and end at id=~27000
 for recipeId in range(6660, 27000):
     soup = None
@@ -492,6 +518,8 @@ for recipeId in range(6660, 27000):
             continue
         soup = BeautifulSoup(page.content, "html.parser")
         nutrition_info = get_nutrition_info(page)
+        ingredients_list = get_ingredients_list(page)
+        steps = get_steps(page)
     except Exception as e:
         print(e)
         continue
@@ -862,9 +890,13 @@ for recipeId in range(6660, 27000):
                    "labels": allLabels,
                    "servings": servings,
                    "calories": calories,
-                   "nutrition_info": nutrition_info}, jsonFile, indent=4)
+                   "nutrition_info": nutrition_info,
+                   "unparsed_ingredients" : ingredients_list,
+                   "unparsed_steps": steps}, jsonFile, indent=4)
         jsonFile.write(",\n")
-
+        counter += 1
+        if(counter == 1000):
+            sys.exit()
         # write data to files every 10 recipes
         if recipeId % 10 == 0:
             unlabeledRecipeFile = open("unlabeledRecipes.txt", "w")
