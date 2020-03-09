@@ -491,7 +491,7 @@ for recipeId in range(6660, 27000):
 
     if soup:
         titleSpan = soup.find("h1", class_="recipe-summary__h1")
-        servingSpan = soup.find("span", class_="servings-count")
+        servingSpan = soup.find("span", class_="recipe-ingredients__header__toggles")
         calorieSpan = soup.find("span", class_="calorie-count")
         directionObjects = soup.find_all(
             "span", class_="recipe-directions__list--item")
@@ -829,7 +829,8 @@ for recipeId in range(6660, 27000):
         #
         # get servings
         #
-        servings = servingSpan.contents[0].text if servingSpan is not None else None
+        metaElement = servingSpan.find(id='metaRecipeServings')
+        servings = metaElement['content']
         if servings and servings.isdigit():
             servings = eval(servings)
         else:
