@@ -498,13 +498,22 @@ for recipeId in range(6660, 27000):
         ingredientObjects = soup.find_all("span", class_="recipe-ingred_txt")
         footnotesSection = soup.find("section", class_="recipe-footnotes")
 
+        if(titleSpan is None):
+            continue
+        if(servingSpan is None):
+            continue
+        if(calorieSpan is None):
+            continue
+        if(directionObjects is None):
+            continue
+        if(ingredientObjects is None):
+            continue
+        if(footnotesSection is None):
+            continue
         #
         # get title
         #
-        try:
-            title = titleSpan.text
-        except:
-            title = ""
+        title = titleSpan.text
         title = title.replace("Linguini", "Linguine")
         title = title.replace("Genoese", "Genoise")
 
@@ -796,10 +805,7 @@ for recipeId in range(6660, 27000):
 
         # get number of spans and concatenate all contents to string
         count = len(directionObjects) - 1  # 1 empty span at end
-        try:
-            directionsString = directionObjects[0].text
-        except:
-            directionsString = None
+        directionsString = directionObjects[0].text
         for i in range(1, count):
             directionsString += " " + directionObjects[i].text
 
@@ -839,15 +845,15 @@ for recipeId in range(6660, 27000):
             calories = 0
 
         # write ingredient to JSON file
-        jsonFile.write(json.dumps({"id": recipeId,
-                                   "name": title,
-                                   "ingredients": ingredients,
-                                   "directions": directions,
-                                   "footnotes": footnotes,
-                                   "labels": allLabels,
-                                   "servings": servings,
-                                   "calories": calories}, indent=4))
-        jsonFile.write("\n")
+        json.dump({"id": recipeId,
+                   "name": title,
+                   "ingredients": ingredients,
+                   "directions": directions,
+                   "footnotes": footnotes,
+                   "labels": allLabels,
+                   "servings": servings,
+                   "calories": calories}, jsonFile, indent=4)
+        jsonFile.write(",\n")
 
         # write data to files every 10 recipes
         if recipeId % 10 == 0:
