@@ -86,9 +86,9 @@
         "Reynolds\u00ae parchment can be used for easier cleanup/removal from the pan."
     ],
     "labels": [
+        "dessert",
         "dairy",
-        "cheese",
-        "dessert"
+        "cheese"
     ],
     "servings": 0,
     "calories": 121
@@ -172,8 +172,8 @@
             "unit": "teaspoons",
             "ingredient": "baking soda",
             "labels": [
-                "drink",
-                "baking ingredient"
+                "baking ingredient",
+                "drink"
             ]
         },
         {
@@ -182,8 +182,8 @@
             "unit": "cups",
             "ingredient": "buttermilk",
             "labels": [
-                "dairy",
-                "fat and vitamins"
+                "fat and vitamins",
+                "dairy"
             ]
         },
         {
@@ -203,9 +203,9 @@
             "unit": "cups",
             "ingredient": "Pepper Jack cheese",
             "labels": [
+                "vegetable",
                 "dairy",
-                "cheese",
-                "vegetable"
+                "cheese"
             ]
         },
         {
@@ -308,8 +308,8 @@
     ],
     "footnotes": [],
     "labels": [
-        "bread",
-        "vegetable"
+        "vegetable",
+        "bread"
     ],
     "servings": 0,
     "calories": 314
@@ -503,8 +503,8 @@
             "unit": "teaspoons",
             "ingredient": "baking soda",
             "labels": [
-                "drink",
-                "baking ingredient"
+                "baking ingredient",
+                "drink"
             ]
         },
         {
@@ -603,8 +603,8 @@
     ],
     "footnotes": [],
     "labels": [
-        "bread",
-        "vegetable"
+        "vegetable",
+        "bread"
     ],
     "servings": 0,
     "calories": 303
@@ -632,8 +632,8 @@
             "unit": "cups",
             "ingredient": "milk",
             "labels": [
-                "dairy",
-                "fat and vitamins"
+                "fat and vitamins",
+                "dairy"
             ]
         },
         {
@@ -756,8 +756,8 @@
             "unit": "cups",
             "ingredient": "hot milk",
             "labels": [
-                "dairy",
-                "fat and vitamins"
+                "fat and vitamins",
+                "dairy"
             ]
         },
         {
@@ -779,8 +779,8 @@
             "unit": "cups",
             "ingredient": "bread flour",
             "labels": [
-                "grain",
-                "baking ingredient"
+                "baking ingredient",
+                "grain"
             ]
         },
         {
@@ -807,8 +807,8 @@
             "unit": "cups",
             "ingredient": "orange juice",
             "labels": [
-                "fruit",
-                "drink"
+                "drink",
+                "fruit"
             ]
         },
         {
@@ -948,8 +948,8 @@
             "unit": "cups",
             "ingredient": "jalapeno peppers",
             "labels": [
-                "vegetable",
-                "spicy"
+                "spicy",
+                "vegetable"
             ]
         },
         {
@@ -1086,11 +1086,11 @@
     ],
     "footnotes": [],
     "labels": [
-        "dairy",
-        "spicy",
-        "bread",
+        "vegetable",
         "cheese",
-        "vegetable"
+        "spicy",
+        "dairy",
+        "bread"
     ],
     "servings": 0,
     "calories": 214
@@ -1184,8 +1184,8 @@
             "unit": "tablespoons",
             "ingredient": "lemon juice",
             "labels": [
-                "fruit",
-                "drink"
+                "drink",
+                "fruit"
             ]
         },
         {
@@ -1194,8 +1194,8 @@
             "unit": "cups",
             "ingredient": "whole wheat flour",
             "labels": [
-                "grain",
-                "baking ingredient"
+                "baking ingredient",
+                "grain"
             ]
         },
         {
@@ -1242,8 +1242,8 @@
             "unit": "cups",
             "ingredient": "bread flour",
             "labels": [
-                "grain",
-                "baking ingredient"
+                "baking ingredient",
+                "grain"
             ]
         }
     ],
@@ -1398,8 +1398,8 @@
             "unit": "cups",
             "ingredient": "whole wheat flour",
             "labels": [
-                "grain",
-                "baking ingredient"
+                "baking ingredient",
+                "grain"
             ]
         },
         {
@@ -1408,8 +1408,8 @@
             "unit": "cups",
             "ingredient": "bread flour",
             "labels": [
-                "grain",
-                "baking ingredient"
+                "baking ingredient",
+                "grain"
             ]
         },
         {
@@ -1539,8 +1539,8 @@
             "unit": "teaspoons",
             "ingredient": "baking soda",
             "labels": [
-                "drink",
-                "baking ingredient"
+                "baking ingredient",
+                "drink"
             ]
         },
         {
@@ -1654,8 +1654,8 @@
             "unit": "teaspoons",
             "ingredient": "lemon juice",
             "labels": [
-                "fruit",
-                "drink"
+                "drink",
+                "fruit"
             ]
         },
         {
@@ -1673,9 +1673,9 @@
             "unit": "tablespoons",
             "ingredient": "instant powdered milk",
             "labels": [
+                "fat and vitamins",
                 "dairy",
-                "recipe extra",
-                "fat and vitamins"
+                "recipe extra"
             ]
         },
         {
@@ -1693,8 +1693,8 @@
             "unit": "cups",
             "ingredient": "bread flour",
             "labels": [
-                "grain",
-                "baking ingredient"
+                "baking ingredient",
+                "grain"
             ]
         },
         {
@@ -1777,10 +1777,10 @@
     ],
     "footnotes": [],
     "labels": [
-        "dairy",
-        "bread",
+        "vegetable",
         "cheese",
-        "vegetable"
+        "dairy",
+        "bread"
     ],
     "servings": 0,
     "calories": 165
@@ -1835,9 +1835,9 @@
             "unit": "tablespoons",
             "ingredient": "milk powder",
             "labels": [
+                "fat and vitamins",
                 "spice or herb",
-                "dairy",
-                "fat and vitamins"
+                "dairy"
             ]
         },
         {
@@ -1878,8 +1878,8 @@
             "unit": "teaspoons",
             "ingredient": "lemon extract",
             "labels": [
-                "fruit",
-                "flavoring"
+                "flavoring",
+                "fruit"
             ]
         },
         {
@@ -1957,8 +1957,8 @@
             "unit": "cups",
             "ingredient": "milk",
             "labels": [
-                "dairy",
-                "fat and vitamins"
+                "fat and vitamins",
+                "dairy"
             ]
         },
         {
@@ -1989,9 +1989,9 @@
             "unit": "cans",
             "ingredient": "cream corn",
             "labels": [
+                "fat and vitamins",
                 "dairy",
-                "grain",
-                "fat and vitamins"
+                "grain"
             ]
         },
         {
@@ -2000,8 +2000,8 @@
             "unit": "cups",
             "ingredient": "sour cream",
             "labels": [
-                "dairy",
-                "fat and vitamins"
+                "fat and vitamins",
+                "dairy"
             ]
         }
     ],
@@ -2299,8 +2299,8 @@
             "unit": "cups",
             "ingredient": "corn oil",
             "labels": [
-                "grain",
-                "cooking liquid"
+                "cooking liquid",
+                "grain"
             ]
         },
         {
@@ -2309,8 +2309,8 @@
             "unit": "cups",
             "ingredient": "bread flour",
             "labels": [
-                "grain",
-                "baking ingredient"
+                "baking ingredient",
+                "grain"
             ]
         }
     ],
@@ -2401,9 +2401,9 @@
             "unit": "cups",
             "ingredient": "cottage cheese",
             "labels": [
+                "fat and vitamins",
                 "dairy",
-                "cheese",
-                "fat and vitamins"
+                "cheese"
             ]
         },
         {
@@ -2461,8 +2461,8 @@
             "unit": "teaspoons",
             "ingredient": "baking soda",
             "labels": [
-                "drink",
-                "baking ingredient"
+                "baking ingredient",
+                "drink"
             ]
         },
         {
@@ -2591,8 +2591,8 @@
             "unit": "teaspoons",
             "ingredient": "baking soda",
             "labels": [
-                "drink",
-                "baking ingredient"
+                "baking ingredient",
+                "drink"
             ]
         },
         {
@@ -2640,9 +2640,9 @@
             "unit": "teaspoons",
             "ingredient": "pumpkin pie spice",
             "labels": [
-                "spice or herb",
                 "sugar",
-                "vegetable"
+                "vegetable",
+                "spice or herb"
             ]
         },
         {
@@ -2738,8 +2738,8 @@
     ],
     "footnotes": [],
     "labels": [
-        "bread",
-        "vegetable"
+        "vegetable",
+        "bread"
     ],
     "servings": 0,
     "calories": 202
@@ -2985,8 +2985,8 @@
             "unit": "cups",
             "ingredient": "milk",
             "labels": [
-                "dairy",
-                "fat and vitamins"
+                "fat and vitamins",
+                "dairy"
             ]
         },
         {
@@ -3034,9 +3034,9 @@
             "unit": "packages",
             "ingredient": "onion soup mix",
             "labels": [
-                "mixture",
+                "soup",
                 "vegetable",
-                "soup"
+                "mixture"
             ]
         }
     ],
@@ -3104,8 +3104,8 @@
     ],
     "footnotes": [],
     "labels": [
-        "bread",
-        "vegetable"
+        "vegetable",
+        "bread"
     ],
     "servings": 0,
     "calories": 151
@@ -3170,8 +3170,8 @@
             "unit": "cups",
             "ingredient": "bread flour",
             "labels": [
-                "grain",
-                "baking ingredient"
+                "baking ingredient",
+                "grain"
             ]
         }
     ],
@@ -3234,4 +3234,4180 @@
     ],
     "servings": 0,
     "calories": 137
+}
+{
+    "id": 6684,
+    "name": "Italian Bread I",
+    "ingredients": [
+        {
+            "descriptions": [
+                "chopped",
+                "dried"
+            ],
+            "amount": 0.25,
+            "unit": "cups",
+            "ingredient": "sun tomatoes",
+            "labels": [
+                "vegetable"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 2.5,
+            "unit": "cups",
+            "ingredient": "all purpose flour",
+            "labels": [
+                "baking ingredient"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 2,
+            "unit": "tablespoons",
+            "ingredient": "white sugar",
+            "labels": [
+                "sugar"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 2,
+            "unit": "teaspoons",
+            "ingredient": "baking powder",
+            "labels": [
+                "spice or herb",
+                "baking ingredient"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 0.5,
+            "unit": "teaspoons",
+            "ingredient": "baking soda",
+            "labels": [
+                "baking ingredient",
+                "drink"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 0.25,
+            "unit": "teaspoons",
+            "ingredient": "salt",
+            "labels": [
+                "spice or herb"
+            ]
+        },
+        {
+            "descriptions": [
+                "dried"
+            ],
+            "amount": 1,
+            "unit": "teaspoons",
+            "ingredient": "rosemary",
+            "labels": [
+                "spice or herb"
+            ]
+        },
+        {
+            "descriptions": [
+                "dried"
+            ],
+            "amount": 2,
+            "unit": "tablespoons",
+            "ingredient": "parsley",
+            "labels": [
+                "vegetable"
+            ]
+        },
+        {
+            "descriptions": [
+                "shredded"
+            ],
+            "amount": 1,
+            "unit": "cups",
+            "ingredient": "sharp Cheddar cheese",
+            "labels": [
+                "dairy",
+                "cheese"
+            ]
+        },
+        {
+            "descriptions": [
+                "chopped"
+            ],
+            "amount": 0.25,
+            "unit": "cups",
+            "ingredient": "green onions",
+            "labels": [
+                "vegetable"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 1,
+            "unit": "",
+            "ingredient": "eggs",
+            "labels": [
+                "baking ingredient"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 1.5,
+            "unit": "cups",
+            "ingredient": "buttermilk",
+            "labels": [
+                "fat and vitamins",
+                "dairy"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 3,
+            "unit": "tablespoons",
+            "ingredient": "olive oil",
+            "labels": [
+                "vegetable",
+                "cooking liquid"
+            ]
+        },
+        {
+            "descriptions": [
+                "crushed"
+            ],
+            "amount": 1,
+            "unit": "",
+            "ingredient": "clove garlic",
+            "labels": [
+                "spice or herb"
+            ]
+        }
+    ],
+    "directions": [
+        {
+            "step": 0,
+            "direction": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "step": 1,
+            "direction": "Grease a 9 x 5 loaf pan."
+        },
+        {
+            "step": 2,
+            "direction": "Whisk together the oil, egg, and buttermilk in a small bowl."
+        },
+        {
+            "step": 3,
+            "direction": "In a large bowl, whisk together flour, sugar, baking powder, soda, salt, and dried herbs."
+        },
+        {
+            "step": 4,
+            "direction": "Stir in cheese and onions."
+        },
+        {
+            "step": 5,
+            "direction": "Pour buttermilk mixture into the flour mixture, and stir to combine."
+        },
+        {
+            "step": 6,
+            "direction": "Add garlic and tomatoes until evenly distributed."
+        },
+        {
+            "step": 7,
+            "direction": "Spread batter into prepared pan."
+        },
+        {
+            "step": 8,
+            "direction": "Smooth top, and tap pan on counter to remove bubbles."
+        },
+        {
+            "step": 9,
+            "direction": "Bake for 60 to 65 minutes, until golden."
+        },
+        {
+            "step": 10,
+            "direction": "Cool loaf on wire rack."
+        }
+    ],
+    "footnotes": [],
+    "labels": [
+        "bread"
+    ],
+    "servings": 0,
+    "calories": 203
+}
+{
+    "id": 6685,
+    "name": "Sunday Dinner Rolls",
+    "ingredients": [
+        {
+            "descriptions": [
+                ".25 ounce",
+                "dry"
+            ],
+            "amount": 1,
+            "unit": "packages",
+            "ingredient": "active yeast",
+            "labels": [
+                "baking ingredient"
+            ]
+        },
+        {
+            "descriptions": [
+                "warm"
+            ],
+            "amount": 0.25,
+            "unit": "cups",
+            "ingredient": "water",
+            "labels": [
+                "cooking liquid"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 1,
+            "unit": "pinches",
+            "ingredient": "white sugar",
+            "labels": [
+                "sugar"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 0.5,
+            "unit": "cups",
+            "ingredient": "white sugar",
+            "labels": [
+                "sugar"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 2,
+            "unit": "",
+            "ingredient": "eggs",
+            "labels": [
+                "baking ingredient"
+            ]
+        },
+        {
+            "descriptions": [
+                "warm"
+            ],
+            "amount": 1,
+            "unit": "cups",
+            "ingredient": "water",
+            "labels": [
+                "cooking liquid"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 0.5,
+            "unit": "cups",
+            "ingredient": "vegetable oil",
+            "labels": [
+                "vegetable",
+                "cooking liquid"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 1,
+            "unit": "teaspoons",
+            "ingredient": "salt",
+            "labels": [
+                "spice or herb"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 4,
+            "unit": "cups",
+            "ingredient": "all purpose flour",
+            "labels": [
+                "baking ingredient"
+            ]
+        }
+    ],
+    "directions": [
+        {
+            "step": 0,
+            "direction": "In a large bowl, stir yeast, 1/4 cup warm water, and a pinch of sugar."
+        },
+        {
+            "step": 1,
+            "direction": "In another bowl, beat eggs in 1 cup warm water; add oil and salt."
+        },
+        {
+            "step": 2,
+            "direction": "Mix egg mixture into yeast, and add sugar."
+        },
+        {
+            "step": 3,
+            "direction": "Gradually add flour."
+        },
+        {
+            "step": 4,
+            "direction": "Cover with a damp cloth, and allow to stand at room temperature for 1 hour, then place in the refrigerator and allow to rise overnight."
+        },
+        {
+            "step": 5,
+            "direction": "This dough is rather sticky, and will raise to at least twice it's size."
+        },
+        {
+            "step": 6,
+            "direction": "Divide the dough into 4 equal parts."
+        },
+        {
+            "step": 7,
+            "direction": "Roll each section out into a circle on a floured board or wax paper."
+        },
+        {
+            "step": 8,
+            "direction": "Cut into pizza slice shapes, and roll slices large end to small end."
+        },
+        {
+            "step": 9,
+            "direction": "Place on greased flat baking pans, and allow to rise for 2 hours."
+        },
+        {
+            "step": 10,
+            "direction": "Bake at 375 degrees F (190 degrees C) for 8 minutes."
+        }
+    ],
+    "footnotes": [
+        "Partner Tip",
+        "Reynolds\u00ae parchment can be used for easier cleanup/removal from the pan."
+    ],
+    "labels": [
+        "bread"
+    ],
+    "servings": 0,
+    "calories": 105
+}
+{
+    "id": 6686,
+    "name": "Banana Wheat Bread",
+    "ingredients": [
+        {
+            "descriptions": [],
+            "amount": 2,
+            "unit": "cups",
+            "ingredient": "whole wheat flour",
+            "labels": [
+                "baking ingredient",
+                "grain"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 0.25,
+            "unit": "cups",
+            "ingredient": "wheat germ",
+            "labels": [
+                "grain"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 1,
+            "unit": "teaspoons",
+            "ingredient": "salt",
+            "labels": [
+                "spice or herb"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 1,
+            "unit": "teaspoons",
+            "ingredient": "baking soda",
+            "labels": [
+                "baking ingredient",
+                "drink"
+            ]
+        },
+        {
+            "descriptions": [
+                "mashed"
+            ],
+            "amount": 1.5,
+            "unit": "cups",
+            "ingredient": "bananas",
+            "labels": [
+                "fruit"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 0.25,
+            "unit": "cups",
+            "ingredient": "vegetable oil",
+            "labels": [
+                "vegetable",
+                "cooking liquid"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 0.5,
+            "unit": "cups",
+            "ingredient": "honey",
+            "labels": [
+                "sugar"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 2,
+            "unit": "",
+            "ingredient": "eggs",
+            "labels": [
+                "baking ingredient"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 1,
+            "unit": "teaspoons",
+            "ingredient": "vanilla extract",
+            "labels": [
+                "spice or herb",
+                "flavoring"
+            ]
+        },
+        {
+            "descriptions": [
+                "chopped"
+            ],
+            "amount": 0.5,
+            "unit": "cups",
+            "ingredient": "pecans",
+            "labels": [
+                "nut"
+            ]
+        }
+    ],
+    "directions": [
+        {
+            "step": 0,
+            "direction": "Grease a 9 x 5 inch loaf pan."
+        },
+        {
+            "step": 1,
+            "direction": "Preheat oven to 350 degrees (175 degrees C)."
+        },
+        {
+            "step": 2,
+            "direction": "Combine oil, honey, eggs, vanilla, and mashed bananas in a bowl."
+        },
+        {
+            "step": 3,
+            "direction": "In a large bowl, whisk together flour, wheat germ, salt, and baking soda."
+        },
+        {
+            "step": 4,
+            "direction": "Make a well in dry ingredients, and add the banana mixture."
+        },
+        {
+            "step": 5,
+            "direction": "Mix together until dry ingredients are moistened."
+        },
+        {
+            "step": 6,
+            "direction": "Stir in nuts."
+        },
+        {
+            "step": 7,
+            "direction": "Pour batter into prepared pan."
+        },
+        {
+            "step": 8,
+            "direction": "Bake 1 hour in preheated oven."
+        },
+        {
+            "step": 9,
+            "direction": "Test for doneness, and cool on wire rack."
+        }
+    ],
+    "footnotes": [],
+    "labels": [
+        "fruit",
+        "bread"
+    ],
+    "servings": 0,
+    "calories": 232
+}
+{
+    "id": 6687,
+    "name": "Banana Bread",
+    "ingredients": [
+        {
+            "descriptions": [],
+            "amount": 1.5,
+            "unit": "cups",
+            "ingredient": "all purpose flour",
+            "labels": [
+                "baking ingredient"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 1,
+            "unit": "teaspoons",
+            "ingredient": "baking soda",
+            "labels": [
+                "baking ingredient",
+                "drink"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 0.5,
+            "unit": "teaspoons",
+            "ingredient": "salt",
+            "labels": [
+                "spice or herb"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 1,
+            "unit": "cups",
+            "ingredient": "white sugar",
+            "labels": [
+                "sugar"
+            ]
+        },
+        {
+            "descriptions": [
+                "beaten"
+            ],
+            "amount": 2,
+            "unit": "",
+            "ingredient": "eggs",
+            "labels": [
+                "baking ingredient"
+            ]
+        },
+        {
+            "descriptions": [
+                "melted"
+            ],
+            "amount": 0.25,
+            "unit": "cups",
+            "ingredient": "butter",
+            "labels": [
+                "cooking fat"
+            ]
+        },
+        {
+            "descriptions": [
+                "mashed"
+            ],
+            "amount": 3,
+            "unit": "",
+            "ingredient": "bananas",
+            "labels": [
+                "fruit"
+            ]
+        }
+    ],
+    "directions": [
+        {
+            "step": 0,
+            "direction": "Grease and flour two 7x3 inch loaf pans."
+        },
+        {
+            "step": 1,
+            "direction": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "step": 2,
+            "direction": "In one bowl, whisk together flour, soda, salt, and sugar."
+        },
+        {
+            "step": 3,
+            "direction": "Mix in slightly beaten eggs, melted butter, and mashed bananas."
+        },
+        {
+            "step": 4,
+            "direction": "Stir in nuts if desired."
+        },
+        {
+            "step": 5,
+            "direction": "Pour into prepared pans."
+        },
+        {
+            "step": 6,
+            "direction": "Bake at 350 degrees F (175 degrees C) for 1 hour, or until a wooden toothpick inserted in the center comes out clean."
+        }
+    ],
+    "footnotes": [
+        "Partner Tip",
+        "Reynolds\u00ae Aluminum foil can be used to keep food moist, cook it evenly, and make clean-up easier."
+    ],
+    "labels": [
+        "fruit",
+        "bread"
+    ],
+    "servings": 0,
+    "calories": 145
+}
+{
+    "id": 6688,
+    "name": "Candied Fruit Bread",
+    "ingredients": [
+        {
+            "descriptions": [
+                "sifted"
+            ],
+            "amount": 2,
+            "unit": "cups",
+            "ingredient": "all purpose flour",
+            "labels": [
+                "baking ingredient"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 4,
+            "unit": "teaspoons",
+            "ingredient": "baking powder",
+            "labels": [
+                "spice or herb",
+                "baking ingredient"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 0.5,
+            "unit": "teaspoons",
+            "ingredient": "salt",
+            "labels": [
+                "spice or herb"
+            ]
+        },
+        {
+            "descriptions": [
+                "ground"
+            ],
+            "amount": 0.25,
+            "unit": "teaspoons",
+            "ingredient": "cinnamon",
+            "labels": [
+                "spice or herb"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 0.75,
+            "unit": "cups",
+            "ingredient": "white sugar",
+            "labels": [
+                "sugar"
+            ]
+        },
+        {
+            "descriptions": [
+                "chopped"
+            ],
+            "amount": 0.25,
+            "unit": "cups",
+            "ingredient": "candied citron",
+            "labels": [
+                "sugar",
+                "fruit"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 0.25,
+            "unit": "cups",
+            "ingredient": "currants",
+            "labels": [
+                "fruit"
+            ]
+        },
+        {
+            "descriptions": [
+                "chopped"
+            ],
+            "amount": 2,
+            "unit": "tablespoons",
+            "ingredient": "candied cherries",
+            "labels": [
+                "sugar",
+                "fruit"
+            ]
+        },
+        {
+            "descriptions": [
+                "chopped",
+                "peel"
+            ],
+            "amount": 2,
+            "unit": "tablespoons",
+            "ingredient": "candied lemon",
+            "labels": [
+                "sugar",
+                "fruit"
+            ]
+        },
+        {
+            "descriptions": [
+                "chopped",
+                "blanched"
+            ],
+            "amount": 0.25,
+            "unit": "cups",
+            "ingredient": "almonds",
+            "labels": [
+                "nut"
+            ]
+        },
+        {
+            "descriptions": [
+                "chopped"
+            ],
+            "amount": 0.25,
+            "unit": "cups",
+            "ingredient": "pecans",
+            "labels": [
+                "nut"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 1,
+            "unit": "cups",
+            "ingredient": "milk",
+            "labels": [
+                "fat and vitamins",
+                "dairy"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 2,
+            "unit": "",
+            "ingredient": "eggs",
+            "labels": [
+                "baking ingredient"
+            ]
+        },
+        {
+            "descriptions": [
+                "melted"
+            ],
+            "amount": 3,
+            "unit": "tablespoons",
+            "ingredient": "butter",
+            "labels": [
+                "cooking fat"
+            ]
+        }
+    ],
+    "directions": [
+        {
+            "step": 0,
+            "direction": "Grease an 8 x 5 inch loaf tin thoroughly."
+        },
+        {
+            "step": 1,
+            "direction": "Preheat oven to 375 degrees F (190 degrees C)."
+        },
+        {
+            "step": 2,
+            "direction": "In a small bowl, beat the eggs well."
+        },
+        {
+            "step": 3,
+            "direction": "Add milk and melted butter or shortening, and mix well."
+        },
+        {
+            "step": 4,
+            "direction": "Sift together flour, baking powder, salt, and cinnamon into a large mixing bowl."
+        },
+        {
+            "step": 5,
+            "direction": "Add sugar, prepared fruits and nuts, and mix well."
+        },
+        {
+            "step": 6,
+            "direction": "Add egg mixture to fruit and nut mixture, stirring just enough to blend."
+        },
+        {
+            "step": 7,
+            "direction": "Turn batter into greased loaf tin."
+        },
+        {
+            "step": 8,
+            "direction": "Let stand for 20 minutes."
+        },
+        {
+            "step": 9,
+            "direction": "Place pan in center of oven on middle rack."
+        },
+        {
+            "step": 10,
+            "direction": "Bake for 60 to 70 minutes."
+        },
+        {
+            "step": 11,
+            "direction": "Turn out on wire rack, and allow to cool for several hours before slicing."
+        }
+    ],
+    "footnotes": [],
+    "labels": [
+        "sugar",
+        "fruit",
+        "bread"
+    ],
+    "servings": 0,
+    "calories": 482
+}
+{
+    "id": 6689,
+    "name": "Nut and Fruit Bread",
+    "ingredients": [
+        {
+            "descriptions": [
+                "sifted"
+            ],
+            "amount": 2,
+            "unit": "cups",
+            "ingredient": "all purpose flour",
+            "labels": [
+                "baking ingredient"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 4,
+            "unit": "teaspoons",
+            "ingredient": "baking powder",
+            "labels": [
+                "spice or herb",
+                "baking ingredient"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 0.5,
+            "unit": "teaspoons",
+            "ingredient": "salt",
+            "labels": [
+                "spice or herb"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 0.5,
+            "unit": "cups",
+            "ingredient": "white sugar",
+            "labels": [
+                "sugar"
+            ]
+        },
+        {
+            "descriptions": [
+                "chopped"
+            ],
+            "amount": 0.75,
+            "unit": "cups",
+            "ingredient": "walnuts",
+            "labels": [
+                "nut"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 1,
+            "unit": "cups",
+            "ingredient": "raisins",
+            "labels": [
+                "fruit"
+            ]
+        },
+        {
+            "descriptions": [
+                "zest"
+            ],
+            "amount": 1,
+            "unit": "tablespoons",
+            "ingredient": "orange",
+            "labels": [
+                "fruit"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 1,
+            "unit": "",
+            "ingredient": "eggs",
+            "labels": [
+                "baking ingredient"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 1,
+            "unit": "cups",
+            "ingredient": "milk",
+            "labels": [
+                "fat and vitamins",
+                "dairy"
+            ]
+        },
+        {
+            "descriptions": [
+                "melted"
+            ],
+            "amount": 2,
+            "unit": "tablespoons",
+            "ingredient": "butter",
+            "labels": [
+                "cooking fat"
+            ]
+        }
+    ],
+    "directions": [
+        {
+            "step": 0,
+            "direction": "Grease an 8 x 5 inch loaf tin thoroughly."
+        },
+        {
+            "step": 1,
+            "direction": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "step": 2,
+            "direction": "In a small bowl, beat the egg well."
+        },
+        {
+            "step": 3,
+            "direction": "Mix in milk and melted butter or shortening."
+        },
+        {
+            "step": 4,
+            "direction": "Sift flour, baking powder, and salt together into a mixing bowl."
+        },
+        {
+            "step": 5,
+            "direction": "Add sugar, nuts, raisins and orange rind; mix well."
+        },
+        {
+            "step": 6,
+            "direction": "Blend egg mixture into fruit and nut mixture until flour is just moistened."
+        },
+        {
+            "step": 7,
+            "direction": "Turn batter into greased loaf tin, and allow to stand for 20 minutes."
+        },
+        {
+            "step": 8,
+            "direction": "Place pan in the center of the oven."
+        },
+        {
+            "step": 9,
+            "direction": "Bake for 55 to 60 minutes."
+        },
+        {
+            "step": 10,
+            "direction": "Turn bread out on wire rack, and cool for several hours before slicing."
+        }
+    ],
+    "footnotes": [],
+    "labels": [
+        "main protein",
+        "fruit",
+        "bread"
+    ],
+    "servings": 0,
+    "calories": 272
+}
+{
+    "id": 6690,
+    "name": "Mother's Banana Bread",
+    "ingredients": [
+        {
+            "descriptions": [],
+            "amount": 1.75,
+            "unit": "cups",
+            "ingredient": "all purpose flour",
+            "labels": [
+                "baking ingredient"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 2,
+            "unit": "teaspoons",
+            "ingredient": "baking powder",
+            "labels": [
+                "spice or herb",
+                "baking ingredient"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 0.25,
+            "unit": "teaspoons",
+            "ingredient": "baking soda",
+            "labels": [
+                "baking ingredient",
+                "drink"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 0.5,
+            "unit": "teaspoons",
+            "ingredient": "salt",
+            "labels": [
+                "spice or herb"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 0.6666666666666666,
+            "unit": "cups",
+            "ingredient": "white sugar",
+            "labels": [
+                "sugar"
+            ]
+        },
+        {
+            "descriptions": [
+                "softened"
+            ],
+            "amount": 0.3333333333333333,
+            "unit": "cups",
+            "ingredient": "butter",
+            "labels": [
+                "cooking fat"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 2,
+            "unit": "",
+            "ingredient": "eggs",
+            "labels": [
+                "baking ingredient"
+            ]
+        },
+        {
+            "descriptions": [
+                "mashed"
+            ],
+            "amount": 1,
+            "unit": "cups",
+            "ingredient": "bananas",
+            "labels": [
+                "fruit"
+            ]
+        },
+        {
+            "descriptions": [
+                "chopped"
+            ],
+            "amount": 0.5,
+            "unit": "cups",
+            "ingredient": "walnuts",
+            "labels": [
+                "nut"
+            ]
+        }
+    ],
+    "directions": [
+        {
+            "step": 0,
+            "direction": "Grease an 8x4 inch loaf pan."
+        },
+        {
+            "step": 1,
+            "direction": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "step": 2,
+            "direction": "In a large mixing bowl, sift together flour, baking powder, baking soda, salt, and sugar."
+        },
+        {
+            "step": 3,
+            "direction": "Add butter, eggs, nuts, and mashed banana."
+        },
+        {
+            "step": 4,
+            "direction": "Beat until well blended."
+        },
+        {
+            "step": 5,
+            "direction": "Pour batter into prepared pan and bake about 1 hour, or until a toothpick inserted in the center of the loaf comes out clean."
+        }
+    ],
+    "footnotes": [],
+    "labels": [
+        "fruit",
+        "bread"
+    ],
+    "servings": 0,
+    "calories": 215
+}
+{
+    "id": 6691,
+    "name": "Pumpernickel Bread I",
+    "ingredients": [
+        {
+            "descriptions": [
+                "warm"
+            ],
+            "amount": 1.5,
+            "unit": "cups",
+            "ingredient": "milk",
+            "labels": [
+                "fat and vitamins",
+                "dairy"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 1.5,
+            "unit": "tablespoons",
+            "ingredient": "vegetable oil",
+            "labels": [
+                "vegetable",
+                "cooking liquid"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 3,
+            "unit": "tablespoons",
+            "ingredient": "molasses",
+            "labels": [
+                "sugar"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 2.5,
+            "unit": "cups",
+            "ingredient": "bread flour",
+            "labels": [
+                "baking ingredient",
+                "grain"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 1,
+            "unit": "cups",
+            "ingredient": "rye flour",
+            "labels": [
+                "baking ingredient"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 0.3333333333333333,
+            "unit": "cups",
+            "ingredient": "cornmeal",
+            "labels": [
+                "grain"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 1,
+            "unit": "teaspoons",
+            "ingredient": "salt",
+            "labels": [
+                "spice or herb"
+            ]
+        },
+        {
+            "descriptions": [
+                "dry"
+            ],
+            "amount": 1.75,
+            "unit": "teaspoons",
+            "ingredient": "active yeast",
+            "labels": [
+                "baking ingredient"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 3,
+            "unit": "tablespoons",
+            "ingredient": "unsweetened cocoa powder",
+            "labels": [
+                "spice or herb"
+            ]
+        }
+    ],
+    "directions": [
+        {
+            "step": 0,
+            "direction": "Place ingredients into the bread machine in order suggested by the manufacturer."
+        },
+        {
+            "step": 1,
+            "direction": "Use the Light Crust or Whole Wheat settings."
+        },
+        {
+            "step": 2,
+            "direction": "Start the machine."
+        }
+    ],
+    "footnotes": [],
+    "labels": [
+        "bread"
+    ],
+    "servings": 0,
+    "calories": 196
+}
+{
+    "id": 6692,
+    "name": "Sun Dried Tomato Focaccia",
+    "ingredients": [
+        {
+            "descriptions": [],
+            "amount": 1,
+            "unit": "cups",
+            "ingredient": "water",
+            "labels": [
+                "cooking liquid"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 3,
+            "unit": "cups",
+            "ingredient": "bread flour",
+            "labels": [
+                "baking ingredient",
+                "grain"
+            ]
+        },
+        {
+            "descriptions": [
+                "dry"
+            ],
+            "amount": 2,
+            "unit": "tablespoons",
+            "ingredient": "milk powder",
+            "labels": [
+                "fat and vitamins",
+                "spice or herb",
+                "dairy"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 3.5,
+            "unit": "tablespoons",
+            "ingredient": "white sugar",
+            "labels": [
+                "sugar"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 1,
+            "unit": "teaspoons",
+            "ingredient": "salt",
+            "labels": [
+                "spice or herb"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 3,
+            "unit": "tablespoons",
+            "ingredient": "margarine",
+            "labels": [
+                "baking ingredient"
+            ]
+        },
+        {
+            "descriptions": [
+                "dry"
+            ],
+            "amount": 2,
+            "unit": "teaspoons",
+            "ingredient": "active yeast",
+            "labels": [
+                "baking ingredient"
+            ]
+        },
+        {
+            "descriptions": [
+                "chopped",
+                "dried"
+            ],
+            "amount": 0.5,
+            "unit": "cups",
+            "ingredient": "sun tomatoes",
+            "labels": [
+                "vegetable"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 2,
+            "unit": "tablespoons",
+            "ingredient": "olive oil",
+            "labels": [
+                "vegetable",
+                "cooking liquid"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 2,
+            "unit": "tablespoons",
+            "ingredient": "Parmesan cheese",
+            "labels": [
+                "dairy",
+                "cheese"
+            ]
+        },
+        {
+            "descriptions": [
+                "dried",
+                "crushed"
+            ],
+            "amount": 2,
+            "unit": "teaspoons",
+            "ingredient": "rosemary",
+            "labels": [
+                "spice or herb"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 1,
+            "unit": "teaspoons",
+            "ingredient": "garlic salt",
+            "labels": [
+                "spice or herb"
+            ]
+        },
+        {
+            "descriptions": [
+                "shredded"
+            ],
+            "amount": 1,
+            "unit": "cups",
+            "ingredient": "mozzarella cheese",
+            "labels": [
+                "dairy",
+                "cheese"
+            ]
+        }
+    ],
+    "directions": [
+        {
+            "step": 0,
+            "direction": "Place water, flour, powdered milk, sugar, salt, butter or margarine, tomatoes, and yeast into bread machine in the order suggested by the manufacturer."
+        },
+        {
+            "step": 1,
+            "direction": "Set to Dough cycle, and start the machine."
+        },
+        {
+            "step": 2,
+            "direction": "Dough will be 1/2 pound."
+        },
+        {
+            "step": 3,
+            "direction": "When the bread machine has finished the Dough cycle, take the dough out."
+        },
+        {
+            "step": 4,
+            "direction": "Knead for 1 minute by hand."
+        },
+        {
+            "step": 5,
+            "direction": "Place in an oiled bowl, and turn a few times to coat the surface of the dough."
+        },
+        {
+            "step": 6,
+            "direction": "Cover with a damp cloth, and let rise for 15 minutes in a warm place."
+        },
+        {
+            "step": 7,
+            "direction": "Dust a 10 x 15 inch baking tray with cornmeal."
+        },
+        {
+            "step": 8,
+            "direction": "Roll out dough to fit the pan."
+        },
+        {
+            "step": 9,
+            "direction": "Make indentations in the dough with your finger tips."
+        },
+        {
+            "step": 10,
+            "direction": "Brush top surface with oil, and cover with a damp cloth."
+        },
+        {
+            "step": 11,
+            "direction": "Allow to rise for 30 minutes."
+        },
+        {
+            "step": 12,
+            "direction": "Sprinkle with parmesan, rosemary, garlic salt, and mozzarella."
+        },
+        {
+            "step": 13,
+            "direction": "Bake at 400 degree F (205 degrees C) for 15 minutes, or until nicely browned."
+        },
+        {
+            "step": 14,
+            "direction": "Cool slightly, and cut into squares for serving."
+        }
+    ],
+    "footnotes": [],
+    "labels": [
+        "vegetable",
+        "bread"
+    ],
+    "servings": 0,
+    "calories": 205
+}
+{
+    "id": 6693,
+    "name": "Buttermilk Bread I",
+    "ingredients": [
+        {
+            "descriptions": [],
+            "amount": 1.5,
+            "unit": "cups",
+            "ingredient": "buttermilk",
+            "labels": [
+                "fat and vitamins",
+                "dairy"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 1.5,
+            "unit": "tablespoons",
+            "ingredient": "margarine",
+            "labels": [
+                "baking ingredient"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 2,
+            "unit": "tablespoons",
+            "ingredient": "white sugar",
+            "labels": [
+                "sugar"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 1,
+            "unit": "teaspoons",
+            "ingredient": "salt",
+            "labels": [
+                "spice or herb"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 3,
+            "unit": "cups",
+            "ingredient": "bread flour",
+            "labels": [
+                "baking ingredient",
+                "grain"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 1.3333333333333333,
+            "unit": "cups",
+            "ingredient": "whole wheat flour",
+            "labels": [
+                "baking ingredient",
+                "grain"
+            ]
+        },
+        {
+            "descriptions": [
+                "dry"
+            ],
+            "amount": 2.25,
+            "unit": "teaspoons",
+            "ingredient": "active yeast",
+            "labels": [
+                "baking ingredient"
+            ]
+        }
+    ],
+    "directions": [
+        {
+            "step": 0,
+            "direction": "Place buttermilk, butter or margarine, sugar, salt, flour, whole wheat flour, and yeast into pan of bread machine."
+        },
+        {
+            "step": 1,
+            "direction": "Bake on White Bread setting."
+        },
+        {
+            "step": 2,
+            "direction": "Cool on wire racks before slicing."
+        }
+    ],
+    "footnotes": [],
+    "labels": [
+        "fat and vitamins",
+        "bread",
+        "dairy"
+    ],
+    "servings": 0,
+    "calories": 80
+}
+{
+    "id": 6694,
+    "name": "Michell Jenny's Challah",
+    "ingredients": [
+        {
+            "descriptions": [],
+            "amount": 0.875,
+            "unit": "cups",
+            "ingredient": "water",
+            "labels": [
+                "cooking liquid"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 0.5,
+            "unit": "tablespoons",
+            "ingredient": "salt",
+            "labels": [
+                "spice or herb"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 0.25,
+            "unit": "cups",
+            "ingredient": "honey",
+            "labels": [
+                "sugar"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 2,
+            "unit": "",
+            "ingredient": "eggs",
+            "labels": [
+                "baking ingredient"
+            ]
+        },
+        {
+            "descriptions": [
+                "melted"
+            ],
+            "amount": 0.25,
+            "unit": "cups",
+            "ingredient": "butter",
+            "labels": [
+                "cooking fat"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 4,
+            "unit": "cups",
+            "ingredient": "all purpose flour",
+            "labels": [
+                "baking ingredient"
+            ]
+        },
+        {
+            "descriptions": [
+                "dry"
+            ],
+            "amount": 2,
+            "unit": "teaspoons",
+            "ingredient": "active yeast",
+            "labels": [
+                "baking ingredient"
+            ]
+        }
+    ],
+    "directions": [
+        {
+            "step": 0,
+            "direction": "Place water, salt, honey, eggs, melted butter or margarine, flour, and yeast in order given into the bread machine."
+        },
+        {
+            "step": 1,
+            "direction": "Set the machine to Dough cycle, and start."
+        },
+        {
+            "step": 2,
+            "direction": "Remove dough from the machine after first rising."
+        },
+        {
+            "step": 3,
+            "direction": "Divide dough into three or four equal pieces."
+        },
+        {
+            "step": 4,
+            "direction": "Braid the pieces, and tuck the ends under; pinch to seal."
+        },
+        {
+            "step": 5,
+            "direction": "Place on a greased baking tray."
+        },
+        {
+            "step": 6,
+            "direction": "This bread can also be made in a 9 x 5 inch greased loaf pan."
+        },
+        {
+            "step": 7,
+            "direction": "Allow to rise until doubled in size."
+        },
+        {
+            "step": 8,
+            "direction": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "step": 9,
+            "direction": "Bake in preheated oven until the crust is a deep golden brown, about 35 to 45 minutes."
+        }
+    ],
+    "footnotes": [],
+    "labels": [
+        "bread"
+    ],
+    "servings": 0,
+    "calories": 177
+}
+{
+    "id": 6695,
+    "name": "Potato Bread I",
+    "ingredients": [
+        {
+            "descriptions": [],
+            "amount": 0.75,
+            "unit": "cups",
+            "ingredient": "water",
+            "labels": [
+                "cooking liquid"
+            ]
+        },
+        {
+            "descriptions": [
+                "mashed"
+            ],
+            "amount": 0.6666666666666666,
+            "unit": "cups",
+            "ingredient": "instant potato flakes",
+            "labels": [
+                "vegetable"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 1,
+            "unit": "",
+            "ingredient": "eggs",
+            "labels": [
+                "baking ingredient"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 2,
+            "unit": "tablespoons",
+            "ingredient": "margarine",
+            "labels": [
+                "baking ingredient"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 2,
+            "unit": "tablespoons",
+            "ingredient": "white sugar",
+            "labels": [
+                "sugar"
+            ]
+        },
+        {
+            "descriptions": [
+                "dry"
+            ],
+            "amount": 0.25,
+            "unit": "cups",
+            "ingredient": "milk powder",
+            "labels": [
+                "fat and vitamins",
+                "spice or herb",
+                "dairy"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 1,
+            "unit": "teaspoons",
+            "ingredient": "salt",
+            "labels": [
+                "spice or herb"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 3,
+            "unit": "cups",
+            "ingredient": "bread flour",
+            "labels": [
+                "baking ingredient",
+                "grain"
+            ]
+        },
+        {
+            "descriptions": [
+                "dry"
+            ],
+            "amount": 1.5,
+            "unit": "teaspoons",
+            "ingredient": "active yeast",
+            "labels": [
+                "baking ingredient"
+            ]
+        }
+    ],
+    "directions": [
+        {
+            "step": 0,
+            "direction": "Add ingredients to bread machine in order suggested by the manufacturer."
+        },
+        {
+            "step": 1,
+            "direction": "Add enough water to make a firm dough; use less if leftover potatoes are used."
+        },
+        {
+            "step": 2,
+            "direction": "Bake at regular bread cycle."
+        }
+    ],
+    "footnotes": [],
+    "labels": [
+        "vegetable",
+        "bread"
+    ],
+    "servings": 0,
+    "calories": 173
+}
+{
+    "id": 6696,
+    "name": "Cinnamon Cranraisin Bread",
+    "ingredients": [
+        {
+            "descriptions": [
+                "warm"
+            ],
+            "amount": 0.75,
+            "unit": "cups",
+            "ingredient": "water",
+            "labels": [
+                "cooking liquid"
+            ]
+        },
+        {
+            "descriptions": [
+                "lightly beaten"
+            ],
+            "amount": 1,
+            "unit": "",
+            "ingredient": "eggs",
+            "labels": [
+                "baking ingredient"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 1,
+            "unit": "tablespoons",
+            "ingredient": "margarine",
+            "labels": [
+                "baking ingredient"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 2.6666666666666665,
+            "unit": "cups",
+            "ingredient": "all purpose flour",
+            "labels": [
+                "baking ingredient"
+            ]
+        },
+        {
+            "descriptions": [
+                "dry"
+            ],
+            "amount": 3,
+            "unit": "tablespoons",
+            "ingredient": "milk powder",
+            "labels": [
+                "fat and vitamins",
+                "spice or herb",
+                "dairy"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 2,
+            "unit": "tablespoons",
+            "ingredient": "white sugar",
+            "labels": [
+                "sugar"
+            ]
+        },
+        {
+            "descriptions": [
+                "ground"
+            ],
+            "amount": 2,
+            "unit": "teaspoons",
+            "ingredient": "cinnamon",
+            "labels": [
+                "spice or herb"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 1,
+            "unit": "teaspoons",
+            "ingredient": "vanilla extract",
+            "labels": [
+                "spice or herb",
+                "flavoring"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 1,
+            "unit": "teaspoons",
+            "ingredient": "salt",
+            "labels": [
+                "spice or herb"
+            ]
+        },
+        {
+            "descriptions": [
+                "dry"
+            ],
+            "amount": 1.5,
+            "unit": "teaspoons",
+            "ingredient": "active yeast",
+            "labels": [
+                "baking ingredient"
+            ]
+        },
+        {
+            "descriptions": [
+                "dried"
+            ],
+            "amount": 0.5,
+            "unit": "cups",
+            "ingredient": "sweetened cranberries",
+            "labels": [
+                "fruit"
+            ]
+        }
+    ],
+    "directions": [
+        {
+            "step": 0,
+            "direction": "Place warm water, egg, butter or margarine, flour, powdered milk, sugar, cinnamon, vanilla, salt, and yeast into the bread machine in the order suggested by the manufacturer."
+        },
+        {
+            "step": 1,
+            "direction": "Start the machine."
+        },
+        {
+            "step": 2,
+            "direction": "After the first rise, add the dried cranberries."
+        },
+        {
+            "step": 3,
+            "direction": "Continue baking."
+        }
+    ],
+    "footnotes": [],
+    "labels": [
+        "spice or herb",
+        "bread"
+    ],
+    "servings": 0,
+    "calories": 150
+}
+{
+    "id": 6697,
+    "name": "Delicious Pumpkin Bread",
+    "ingredients": [
+        {
+            "descriptions": [],
+            "amount": 3.25,
+            "unit": "cups",
+            "ingredient": "all purpose flour",
+            "labels": [
+                "baking ingredient"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 3,
+            "unit": "cups",
+            "ingredient": "white sugar",
+            "labels": [
+                "sugar"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 2,
+            "unit": "teaspoons",
+            "ingredient": "baking soda",
+            "labels": [
+                "baking ingredient",
+                "drink"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 1.5,
+            "unit": "teaspoons",
+            "ingredient": "salt",
+            "labels": [
+                "spice or herb"
+            ]
+        },
+        {
+            "descriptions": [
+                "ground"
+            ],
+            "amount": 1,
+            "unit": "teaspoons",
+            "ingredient": "nutmeg",
+            "labels": [
+                "spice or herb"
+            ]
+        },
+        {
+            "descriptions": [
+                "ground"
+            ],
+            "amount": 1,
+            "unit": "teaspoons",
+            "ingredient": "cinnamon",
+            "labels": [
+                "spice or herb"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 2,
+            "unit": "cups",
+            "ingredient": "solid pack pumpkin puree",
+            "labels": [
+                "vegetable"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 0.6666666666666666,
+            "unit": "cups",
+            "ingredient": "water",
+            "labels": [
+                "cooking liquid"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 1,
+            "unit": "cups",
+            "ingredient": "vegetable oil",
+            "labels": [
+                "vegetable",
+                "cooking liquid"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 4,
+            "unit": "",
+            "ingredient": "eggs",
+            "labels": [
+                "baking ingredient"
+            ]
+        },
+        {
+            "descriptions": [
+                "optional",
+                "chopped"
+            ],
+            "amount": 0.5,
+            "unit": "cups",
+            "ingredient": "walnuts",
+            "labels": [
+                "nut"
+            ]
+        }
+    ],
+    "directions": [
+        {
+            "step": 0,
+            "direction": "Grease and flour three 7 x 3 inch pans."
+        },
+        {
+            "step": 1,
+            "direction": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "step": 2,
+            "direction": "Measure flour, sugar, baking soda, salt, and spices into a large bowl."
+        },
+        {
+            "step": 3,
+            "direction": "Stir to blend."
+        },
+        {
+            "step": 4,
+            "direction": "Add pumpkin, water, vegetable oil, eggs, and nuts."
+        },
+        {
+            "step": 5,
+            "direction": "Beat until well combined."
+        },
+        {
+            "step": 6,
+            "direction": "Pour batter into prepared pans."
+        },
+        {
+            "step": 7,
+            "direction": "Bake for approximately 1 hour."
+        }
+    ],
+    "footnotes": [
+        "Partner Tip",
+        "Reynolds\u00ae Aluminum foil can be used to keep food moist, cook it evenly, and make clean-up easier."
+    ],
+    "labels": [
+        "vegetable",
+        "bread"
+    ],
+    "servings": 0,
+    "calories": 275
+}
+{
+    "id": 6698,
+    "name": "Mom's Zucchini Bread",
+    "ingredients": [
+        {
+            "descriptions": [],
+            "amount": 3,
+            "unit": "cups",
+            "ingredient": "all purpose flour",
+            "labels": [
+                "baking ingredient"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 1,
+            "unit": "teaspoons",
+            "ingredient": "salt",
+            "labels": [
+                "spice or herb"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 1,
+            "unit": "teaspoons",
+            "ingredient": "baking soda",
+            "labels": [
+                "baking ingredient",
+                "drink"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 1,
+            "unit": "teaspoons",
+            "ingredient": "baking powder",
+            "labels": [
+                "spice or herb",
+                "baking ingredient"
+            ]
+        },
+        {
+            "descriptions": [
+                "ground"
+            ],
+            "amount": 1,
+            "unit": "tablespoons",
+            "ingredient": "cinnamon",
+            "labels": [
+                "spice or herb"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 3,
+            "unit": "",
+            "ingredient": "eggs",
+            "labels": [
+                "baking ingredient"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 1,
+            "unit": "cups",
+            "ingredient": "vegetable oil",
+            "labels": [
+                "vegetable",
+                "cooking liquid"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 2.25,
+            "unit": "cups",
+            "ingredient": "white sugar",
+            "labels": [
+                "sugar"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 3,
+            "unit": "teaspoons",
+            "ingredient": "vanilla extract",
+            "labels": [
+                "spice or herb",
+                "flavoring"
+            ]
+        },
+        {
+            "descriptions": [
+                "grated"
+            ],
+            "amount": 2,
+            "unit": "cups",
+            "ingredient": "zucchini",
+            "labels": [
+                "vegetable"
+            ]
+        },
+        {
+            "descriptions": [
+                "chopped"
+            ],
+            "amount": 1,
+            "unit": "cups",
+            "ingredient": "walnuts",
+            "labels": [
+                "nut"
+            ]
+        }
+    ],
+    "directions": [
+        {
+            "step": 0,
+            "direction": "Grease and flour two 8 x 4 inch pans."
+        },
+        {
+            "step": 1,
+            "direction": "Preheat oven to 325 degrees F (165 degrees C)."
+        },
+        {
+            "step": 2,
+            "direction": "Sift flour, salt, baking powder, soda, and cinnamon together in a bowl."
+        },
+        {
+            "step": 3,
+            "direction": "Beat eggs, oil, vanilla, and sugar together in a large bowl."
+        },
+        {
+            "step": 4,
+            "direction": "Add sifted ingredients to the creamed mixture, and beat well."
+        },
+        {
+            "step": 5,
+            "direction": "Stir in zucchini and nuts until well combined."
+        },
+        {
+            "step": 6,
+            "direction": "Pour batter into prepared pans."
+        },
+        {
+            "step": 7,
+            "direction": "Bake for 40 to 60 minutes, or until tester inserted in the center comes out clean."
+        },
+        {
+            "step": 8,
+            "direction": "Cool in pan on rack for 20 minutes."
+        },
+        {
+            "step": 9,
+            "direction": "Remove bread from pan, and completely cool."
+        }
+    ],
+    "footnotes": [
+        "Partner Tip",
+        "Reynolds\u00ae Aluminum foil can be used to keep food moist, cook it evenly, and make clean-up easier."
+    ],
+    "labels": [
+        "vegetable",
+        "bread"
+    ],
+    "servings": 0,
+    "calories": 255
+}
+{
+    "id": 6699,
+    "name": "Molasses-Oat Bran Bread",
+    "ingredients": [
+        {
+            "descriptions": [
+                ".25 ounce",
+                "dry"
+            ],
+            "amount": 1,
+            "unit": "packages",
+            "ingredient": "active yeast",
+            "labels": [
+                "baking ingredient"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 1,
+            "unit": "pinches",
+            "ingredient": "white sugar",
+            "labels": [
+                "sugar"
+            ]
+        },
+        {
+            "descriptions": [
+                "warm"
+            ],
+            "amount": 1,
+            "unit": "cups",
+            "ingredient": "water",
+            "labels": [
+                "cooking liquid"
+            ]
+        },
+        {
+            "descriptions": [
+                "melted"
+            ],
+            "amount": 2,
+            "unit": "tablespoons",
+            "ingredient": "butter",
+            "labels": [
+                "cooking fat"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 0.3333333333333333,
+            "unit": "cups",
+            "ingredient": "molasses",
+            "labels": [
+                "sugar"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 1,
+            "unit": "cups",
+            "ingredient": "oat bran",
+            "labels": [
+                "grain"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 3,
+            "unit": "cups",
+            "ingredient": "whole wheat flour",
+            "labels": [
+                "baking ingredient",
+                "grain"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 0.5,
+            "unit": "teaspoons",
+            "ingredient": "salt",
+            "labels": [
+                "spice or herb"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 1,
+            "unit": "tablespoons",
+            "ingredient": "oat bran",
+            "labels": [
+                "grain"
+            ]
+        }
+    ],
+    "directions": [
+        {
+            "step": 0,
+            "direction": "In a large bowl, dissolve yeast and a pinch of sugar in warm water."
+        },
+        {
+            "step": 1,
+            "direction": "Set aside to rest for about 5 minutes."
+        },
+        {
+            "step": 2,
+            "direction": "Mix butter or margarine and molasses into yeast."
+        },
+        {
+            "step": 3,
+            "direction": "Add 1 cup oat bran, 2 cups flour, and salt."
+        },
+        {
+            "step": 4,
+            "direction": "Stir, and add flour as needed to make dough stick together."
+        },
+        {
+            "step": 5,
+            "direction": "When dough forms a ball, turn out onto a lightly floured surface."
+        },
+        {
+            "step": 6,
+            "direction": "Knead for 8 to 10 minutes, adding flour as needed to make a slightly sticky and moist dough."
+        },
+        {
+            "step": 7,
+            "direction": "Place in a buttered bowl, and turn to coat the surface."
+        },
+        {
+            "step": 8,
+            "direction": "Cover with a damp cloth, and let rise until doubled in bulk, about 1 1/2 to 2 hours."
+        },
+        {
+            "step": 9,
+            "direction": "Punch down, and form into two round or oval loaves."
+        },
+        {
+            "step": 10,
+            "direction": "Place on a greased baking sheet, and allow to rise 1 hour, or until loaves have doubled in size."
+        },
+        {
+            "step": 11,
+            "direction": "Sprinkle 1 tablespoon oat bran on top of the loaves."
+        },
+        {
+            "step": 12,
+            "direction": "Bake in a preheated 350 degrees F (175 degrees C) oven  for 35 to 45 minutes, or until the tops are a nice dark brown and the bottoms of the loaves sound hollow when tapped."
+        }
+    ],
+    "footnotes": [],
+    "labels": [
+        "sugar",
+        "bread"
+    ],
+    "servings": 0,
+    "calories": 134
+}
+{
+    "id": 6700,
+    "name": "Fabulous Homemade Bread",
+    "ingredients": [
+        {
+            "descriptions": [
+                "warm"
+            ],
+            "amount": 0.5,
+            "unit": "cups",
+            "ingredient": "water",
+            "labels": [
+                "cooking liquid"
+            ]
+        },
+        {
+            "descriptions": [
+                ".25 ounce",
+                "dry"
+            ],
+            "amount": 3,
+            "unit": "packages",
+            "ingredient": "active yeast",
+            "labels": [
+                "baking ingredient"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 0.25,
+            "unit": "cups",
+            "ingredient": "bread flour",
+            "labels": [
+                "baking ingredient",
+                "grain"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 1,
+            "unit": "tablespoons",
+            "ingredient": "white sugar",
+            "labels": [
+                "sugar"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 2,
+            "unit": "cups",
+            "ingredient": "quick cooking oats",
+            "labels": [
+                "grain"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 2,
+            "unit": "cups",
+            "ingredient": "whole wheat flour",
+            "labels": [
+                "baking ingredient",
+                "grain"
+            ]
+        },
+        {
+            "descriptions": [
+                "warm"
+            ],
+            "amount": 4.5,
+            "unit": "cups",
+            "ingredient": "water",
+            "labels": [
+                "cooking liquid"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 1.5,
+            "unit": "tablespoons",
+            "ingredient": "salt",
+            "labels": [
+                "spice or herb"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 0.6666666666666666,
+            "unit": "cups",
+            "ingredient": "brown sugar",
+            "labels": [
+                "sugar",
+                "vegetable"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 0.6666666666666666,
+            "unit": "cups",
+            "ingredient": "vegetable oil",
+            "labels": [
+                "vegetable",
+                "cooking liquid"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 10,
+            "unit": "cups",
+            "ingredient": "bread flour",
+            "labels": [
+                "baking ingredient",
+                "grain"
+            ]
+        }
+    ],
+    "directions": [
+        {
+            "step": 0,
+            "direction": "In the mixing bowl of an electric mixer, stir together 1/2 cup warm water, 1 tablespoon sugar, 1/4 cup bread flour, and yeast."
+        },
+        {
+            "step": 1,
+            "direction": "Let grow for about 5 minutes."
+        },
+        {
+            "step": 2,
+            "direction": "It will bubble almost immediately."
+        },
+        {
+            "step": 3,
+            "direction": "Measure oats, 4 1/2 cups warm water, whole wheat flour, salt, 2/3 cup sugar, and 2/3 cup oil into the mixing bowl."
+        },
+        {
+            "step": 4,
+            "direction": "Mix on low speed with a dough hook for 1 to 2 minutes."
+        },
+        {
+            "step": 5,
+            "direction": "Increase speed slightly, and begin adding bread flour 1/2 to 1 cup at a time until dough pulls away from sides of bowl."
+        },
+        {
+            "step": 6,
+            "direction": "Humidity determines how much flour you need before the bread pulls away from the edge of the bowl."
+        },
+        {
+            "step": 7,
+            "direction": "It is normal for the dough to be sticky."
+        },
+        {
+            "step": 8,
+            "direction": "Place dough in an oiled bowl, and turn to coat the surface."
+        },
+        {
+            "step": 9,
+            "direction": "Cover with a damp cloth."
+        },
+        {
+            "step": 10,
+            "direction": "Let rise in a warm spot for 1 hour, or until doubled in size."
+        },
+        {
+            "step": 11,
+            "direction": "Divide dough into 6  pieces."
+        },
+        {
+            "step": 12,
+            "direction": "Shape loaves, and place in greased 8 x 4 inch pans."
+        },
+        {
+            "step": 13,
+            "direction": "Let rise until dough is 1 inch above rim of pans, usually 1 hour."
+        },
+        {
+            "step": 14,
+            "direction": "Bake at 350 degrees F ( 175 degrees C) for 35 minutes, or until tops are browned."
+        },
+        {
+            "step": 15,
+            "direction": "Let cool in pans for 10 minutes, and then turn out onto wire racks to cool completely."
+        }
+    ],
+    "footnotes": [],
+    "labels": [
+        "bread"
+    ],
+    "servings": 0,
+    "calories": 44
+}
+{
+    "id": 6701,
+    "name": "Persimmon Bread I",
+    "ingredients": [
+        {
+            "descriptions": [],
+            "amount": 2,
+            "unit": "",
+            "ingredient": "eggs",
+            "labels": [
+                "baking ingredient"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 1.5,
+            "unit": "cups",
+            "ingredient": "all purpose flour",
+            "labels": [
+                "baking ingredient"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 0.75,
+            "unit": "cups",
+            "ingredient": "white sugar",
+            "labels": [
+                "sugar"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 0.5,
+            "unit": "teaspoons",
+            "ingredient": "salt",
+            "labels": [
+                "spice or herb"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 0.5,
+            "unit": "cups",
+            "ingredient": "vegetable oil",
+            "labels": [
+                "vegetable",
+                "cooking liquid"
+            ]
+        },
+        {
+            "descriptions": [
+                "ground"
+            ],
+            "amount": 1,
+            "unit": "teaspoons",
+            "ingredient": "cinnamon",
+            "labels": [
+                "spice or herb"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 1,
+            "unit": "cups",
+            "ingredient": "persimmon pulp",
+            "labels": [
+                "fruit"
+            ]
+        },
+        {
+            "descriptions": [
+                "chopped"
+            ],
+            "amount": 0.5,
+            "unit": "cups",
+            "ingredient": "walnuts",
+            "labels": [
+                "nut"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 1,
+            "unit": "teaspoons",
+            "ingredient": "baking soda",
+            "labels": [
+                "baking ingredient",
+                "drink"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 0.5,
+            "unit": "cups",
+            "ingredient": "raisins",
+            "labels": [
+                "fruit"
+            ]
+        }
+    ],
+    "directions": [
+        {
+            "step": 0,
+            "direction": "Preheat oven to 325 degrees F (165 degrees C)."
+        },
+        {
+            "step": 1,
+            "direction": "Oil a 9 x 4 inch pan."
+        },
+        {
+            "step": 2,
+            "direction": "In a small bowl, combine flour, cinnamon, salt, nuts, and raisins."
+        },
+        {
+            "step": 3,
+            "direction": "In a large bowl, blend eggs, sugar, and oil."
+        },
+        {
+            "step": 4,
+            "direction": "Mix baking soda into pulp, and add to sugar mixture."
+        },
+        {
+            "step": 5,
+            "direction": "Fold in flour mixture."
+        },
+        {
+            "step": 6,
+            "direction": "Pour batter into prepared pan."
+        },
+        {
+            "step": 7,
+            "direction": "Bake for 75 minutes, or until tester inserted in the center comes out clean."
+        }
+    ],
+    "footnotes": [],
+    "labels": [
+        "fruit",
+        "bread"
+    ],
+    "servings": 0,
+    "calories": 547
+}
+{
+    "id": 6702,
+    "name": "Cinnamon Carrot Bread",
+    "ingredients": [
+        {
+            "descriptions": [],
+            "amount": 0.75,
+            "unit": "cups",
+            "ingredient": "white sugar",
+            "labels": [
+                "sugar"
+            ]
+        },
+        {
+            "descriptions": [
+                "packed"
+            ],
+            "amount": 0.25,
+            "unit": "cups",
+            "ingredient": "brown sugar",
+            "labels": [
+                "sugar",
+                "vegetable"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 0.75,
+            "unit": "cups",
+            "ingredient": "sunflower seed oil",
+            "labels": [
+                "spice or herb",
+                "main protein",
+                "cooking liquid"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 2,
+            "unit": "cups",
+            "ingredient": "all purpose flour",
+            "labels": [
+                "baking ingredient"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 2,
+            "unit": "teaspoons",
+            "ingredient": "baking powder",
+            "labels": [
+                "spice or herb",
+                "baking ingredient"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 1,
+            "unit": "teaspoons",
+            "ingredient": "baking soda",
+            "labels": [
+                "baking ingredient",
+                "drink"
+            ]
+        },
+        {
+            "descriptions": [
+                "ground"
+            ],
+            "amount": 1,
+            "unit": "teaspoons",
+            "ingredient": "cinnamon",
+            "labels": [
+                "spice or herb"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 2,
+            "unit": "",
+            "ingredient": "eggs",
+            "labels": [
+                "baking ingredient"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 1,
+            "unit": "pinches",
+            "ingredient": "salt",
+            "labels": [
+                "spice or herb"
+            ]
+        },
+        {
+            "descriptions": [
+                "grated"
+            ],
+            "amount": 1,
+            "unit": "cups",
+            "ingredient": "carrots",
+            "labels": [
+                "vegetable"
+            ]
+        },
+        {
+            "descriptions": [
+                "chopped"
+            ],
+            "amount": 0.5,
+            "unit": "cups",
+            "ingredient": "pecans",
+            "labels": [
+                "nut"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 0.5,
+            "unit": "teaspoons",
+            "ingredient": "vanilla extract",
+            "labels": [
+                "spice or herb",
+                "flavoring"
+            ]
+        }
+    ],
+    "directions": [
+        {
+            "step": 0,
+            "direction": "Preheat oven to 350 degrees F (175 Degrees C)."
+        },
+        {
+            "step": 1,
+            "direction": "Grease and flour a 9 x 5 inch loaf pan."
+        },
+        {
+            "step": 2,
+            "direction": "In a large bowl, beat together the sugars and sunflower oil."
+        },
+        {
+            "step": 3,
+            "direction": "Sift flour, baking powder, baking soda, cinnamon, and salt into the bowl while stirring occasionally."
+        },
+        {
+            "step": 4,
+            "direction": "Beat the eggs together, and gradually stir into the batter until everything is combined."
+        },
+        {
+            "step": 5,
+            "direction": "Mix in carrots, pecans, and vanilla until well combined."
+        },
+        {
+            "step": 6,
+            "direction": "Pour batter into prepared pan."
+        },
+        {
+            "step": 7,
+            "direction": "Bake on middle rack for 60 minutes, or until it tests done."
+        },
+        {
+            "step": 8,
+            "direction": "Cool in pan for 10 minutes, and then turn out onto wire rack to cool completely."
+        }
+    ],
+    "footnotes": [],
+    "labels": [
+        "spice or herb",
+        "vegetable",
+        "bread"
+    ],
+    "servings": 0,
+    "calories": 311
+}
+{
+    "id": 6703,
+    "name": "Strawberry Bread II",
+    "ingredients": [
+        {
+            "descriptions": [
+                "softened"
+            ],
+            "amount": 0.5,
+            "unit": "cups",
+            "ingredient": "butter",
+            "labels": [
+                "cooking fat"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 1,
+            "unit": "cups",
+            "ingredient": "white sugar",
+            "labels": [
+                "sugar"
+            ]
+        },
+        {
+            "descriptions": [
+                "separated"
+            ],
+            "amount": 2,
+            "unit": "",
+            "ingredient": "eggs",
+            "labels": [
+                "baking ingredient"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 2,
+            "unit": "cups",
+            "ingredient": "all purpose flour",
+            "labels": [
+                "baking ingredient"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 1,
+            "unit": "teaspoons",
+            "ingredient": "baking powder",
+            "labels": [
+                "spice or herb",
+                "baking ingredient"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 1,
+            "unit": "teaspoons",
+            "ingredient": "baking soda",
+            "labels": [
+                "baking ingredient",
+                "drink"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 0.5,
+            "unit": "teaspoons",
+            "ingredient": "almond extract",
+            "labels": [
+                "nut",
+                "flavoring"
+            ]
+        },
+        {
+            "descriptions": [
+                "10 ounce",
+                "frozen",
+                "thawed",
+                "drained",
+                "juice reserved"
+            ],
+            "amount": 1,
+            "unit": "packages",
+            "ingredient": "strawberries",
+            "labels": [
+                "fruit"
+            ]
+        }
+    ],
+    "directions": [
+        {
+            "step": 0,
+            "direction": "Lightly grease a 9 x 5 inch glass loaf pan, and line with greased waxed paper."
+        },
+        {
+            "step": 1,
+            "direction": "Preheat oven to 350 degrees F (175 Degrees C)."
+        },
+        {
+            "step": 2,
+            "direction": "In a large bowl, cream together butter or margarine, sugar, and almond extract."
+        },
+        {
+            "step": 3,
+            "direction": "Separate eggs, and beat in egg yolks one at a time until light and fluffy."
+        },
+        {
+            "step": 4,
+            "direction": "Sift flour, baking powder and soda into creamed mixture, and mix thoroughly."
+        },
+        {
+            "step": 5,
+            "direction": "Stir in 1/4 cup strawberry juice."
+        },
+        {
+            "step": 6,
+            "direction": "Fold in strawberries."
+        },
+        {
+            "step": 7,
+            "direction": "In another bowl, beat egg whites until stiff."
+        },
+        {
+            "step": 8,
+            "direction": "Fold into strawberry batter."
+        },
+        {
+            "step": 9,
+            "direction": "Turn batter into prepared pan."
+        },
+        {
+            "step": 10,
+            "direction": "Lightly drop pan to pop any air bubbles."
+        },
+        {
+            "step": 11,
+            "direction": "Bake for 50 to 60 minutes, or until tester inserted in the center comes out clean."
+        },
+        {
+            "step": 12,
+            "direction": "Cool for 15 minutes in the pan, and then cool completely on a wire rack before slicing."
+        }
+    ],
+    "footnotes": [],
+    "labels": [
+        "fruit",
+        "bread"
+    ],
+    "servings": 0,
+    "calories": 230
+}
+{
+    "id": 6704,
+    "name": "Yummy Lemon Bread",
+    "ingredients": [
+        {
+            "descriptions": [
+                "melted"
+            ],
+            "amount": 6,
+            "unit": "tablespoons",
+            "ingredient": "butter",
+            "labels": [
+                "cooking fat"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 1,
+            "unit": "cups",
+            "ingredient": "white sugar",
+            "labels": [
+                "sugar"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 0.5,
+            "unit": "cups",
+            "ingredient": "milk",
+            "labels": [
+                "fat and vitamins",
+                "dairy"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 2,
+            "unit": "",
+            "ingredient": "eggs",
+            "labels": [
+                "baking ingredient"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 1.5,
+            "unit": "cups",
+            "ingredient": "all purpose flour",
+            "labels": [
+                "baking ingredient"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 1,
+            "unit": "teaspoons",
+            "ingredient": "baking powder",
+            "labels": [
+                "spice or herb",
+                "baking ingredient"
+            ]
+        },
+        {
+            "descriptions": [
+                "grated",
+                "zest"
+            ],
+            "amount": 1,
+            "unit": "tablespoons",
+            "ingredient": "lemon",
+            "labels": [
+                "fruit"
+            ]
+        },
+        {
+            "descriptions": [
+                "chopped"
+            ],
+            "amount": 0.5,
+            "unit": "cups",
+            "ingredient": "walnuts",
+            "labels": [
+                "nut"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 2,
+            "unit": "tablespoons",
+            "ingredient": "lemon juice",
+            "labels": [
+                "drink",
+                "fruit"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 2,
+            "unit": "tablespoons",
+            "ingredient": "confectioners' sugar",
+            "labels": [
+                "sugar"
+            ]
+        }
+    ],
+    "directions": [
+        {
+            "step": 0,
+            "direction": "Generously grease a 9 x 5 inch loaf pan."
+        },
+        {
+            "step": 1,
+            "direction": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "step": 2,
+            "direction": "In a large bowl, combine melted butter or margarine and sugar."
+        },
+        {
+            "step": 3,
+            "direction": "Add eggs, and mix until light and fluffy."
+        },
+        {
+            "step": 4,
+            "direction": "Add milk, baking powder, lemon rind, and chopped nuts."
+        },
+        {
+            "step": 5,
+            "direction": "Mix well."
+        },
+        {
+            "step": 6,
+            "direction": "Sift flour, and gradually add to mixture; mix to just combine."
+        },
+        {
+            "step": 7,
+            "direction": "Bake for 50 to 60 minutes, or until tester inserted in the center comes out clean."
+        },
+        {
+            "step": 8,
+            "direction": "While bread is baking, combine lemon juice and confectioners' sugar in small dish."
+        },
+        {
+            "step": 9,
+            "direction": "Stir well before using."
+        },
+        {
+            "step": 10,
+            "direction": "Immediately upon removing bread from oven,  place pan on a cooling rack."
+        },
+        {
+            "step": 11,
+            "direction": "Using a large fork, poke holes all over the bread."
+        },
+        {
+            "step": 12,
+            "direction": "Pour lemon juice mixture over the top of the bread."
+        },
+        {
+            "step": 13,
+            "direction": "Cool for 15 minutes, and then remove from pan."
+        }
+    ],
+    "footnotes": [],
+    "labels": [
+        "fruit",
+        "bread"
+    ],
+    "servings": 0,
+    "calories": 227
+}
+{
+    "id": 6705,
+    "name": "Nick's Favorite Cherry Pecan Bread",
+    "ingredients": [
+        {
+            "descriptions": [],
+            "amount": 0.5,
+            "unit": "cups",
+            "ingredient": "margarine",
+            "labels": [
+                "baking ingredient"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 0.75,
+            "unit": "cups",
+            "ingredient": "white sugar",
+            "labels": [
+                "sugar"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 2,
+            "unit": "",
+            "ingredient": "eggs",
+            "labels": [
+                "baking ingredient"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 1,
+            "unit": "cups",
+            "ingredient": "buttermilk",
+            "labels": [
+                "fat and vitamins",
+                "dairy"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 1,
+            "unit": "teaspoons",
+            "ingredient": "baking soda",
+            "labels": [
+                "baking ingredient",
+                "drink"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 0.5,
+            "unit": "teaspoons",
+            "ingredient": "salt",
+            "labels": [
+                "spice or herb"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 1,
+            "unit": "teaspoons",
+            "ingredient": "vanilla extract",
+            "labels": [
+                "spice or herb",
+                "flavoring"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 2,
+            "unit": "cups",
+            "ingredient": "all purpose flour",
+            "labels": [
+                "baking ingredient"
+            ]
+        },
+        {
+            "descriptions": [
+                "10 ounce",
+                "drained",
+                "chopped"
+            ],
+            "amount": 1,
+            "unit": "jars",
+            "ingredient": "maraschino cherries",
+            "labels": [
+                "fruit"
+            ]
+        },
+        {
+            "descriptions": [
+                "chopped"
+            ],
+            "amount": 1,
+            "unit": "cups",
+            "ingredient": "pecans",
+            "labels": [
+                "nut"
+            ]
+        }
+    ],
+    "directions": [
+        {
+            "step": 0,
+            "direction": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "step": 1,
+            "direction": "Grease a 9 x 5 inch loaf pan."
+        },
+        {
+            "step": 2,
+            "direction": "In a large bowl, cream butter or margarine and sugar together."
+        },
+        {
+            "step": 3,
+            "direction": "Add eggs, and continue mixing until light and fluffy."
+        },
+        {
+            "step": 4,
+            "direction": "Add baking soda, salt, and vanilla; mix thoroughly."
+        },
+        {
+            "step": 5,
+            "direction": "Alternately add buttermilk and flour to the creamed mixture, mixing only enough to hold ingredients together."
+        },
+        {
+            "step": 6,
+            "direction": "Fold in cherries and nuts, mixing lightly."
+        },
+        {
+            "step": 7,
+            "direction": "Turn batter into prepared pan."
+        },
+        {
+            "step": 8,
+            "direction": "Bake for 50 to 60 minutes, or until bread tests done."
+        },
+        {
+            "step": 9,
+            "direction": "Cool completely before slicing."
+        }
+    ],
+    "footnotes": [],
+    "labels": [
+        "nut",
+        "fruit",
+        "bread"
+    ],
+    "servings": 0,
+    "calories": 302
+}
+{
+    "id": 6706,
+    "name": "Alienated Blueberry Muffins",
+    "ingredients": [
+        {
+            "descriptions": [
+                "fresh"
+            ],
+            "amount": 2,
+            "unit": "cups",
+            "ingredient": "blueberries",
+            "labels": [
+                "fruit"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 0.25,
+            "unit": "cups",
+            "ingredient": "all purpose flour",
+            "labels": [
+                "baking ingredient"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 2,
+            "unit": "cups",
+            "ingredient": "all purpose flour",
+            "labels": [
+                "baking ingredient"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 4,
+            "unit": "teaspoons",
+            "ingredient": "baking powder",
+            "labels": [
+                "spice or herb",
+                "baking ingredient"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 1,
+            "unit": "teaspoons",
+            "ingredient": "salt",
+            "labels": [
+                "spice or herb"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 0.25,
+            "unit": "cups",
+            "ingredient": "margarine",
+            "labels": [
+                "baking ingredient"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 1.5,
+            "unit": "cups",
+            "ingredient": "white sugar",
+            "labels": [
+                "sugar"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 2,
+            "unit": "",
+            "ingredient": "eggs",
+            "labels": [
+                "baking ingredient"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 1,
+            "unit": "teaspoons",
+            "ingredient": "vanilla extract",
+            "labels": [
+                "spice or herb",
+                "flavoring"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 1,
+            "unit": "cups",
+            "ingredient": "milk",
+            "labels": [
+                "fat and vitamins",
+                "dairy"
+            ]
+        }
+    ],
+    "directions": [
+        {
+            "step": 0,
+            "direction": "Preheat oven to 375 degrees F (190 degrees C)."
+        },
+        {
+            "step": 1,
+            "direction": "Grease muffins tins, or line cups with paper liners."
+        },
+        {
+            "step": 2,
+            "direction": "Sprinkle 1/4 cup flour over blueberries, and stir to coat berries thoroughly."
+        },
+        {
+            "step": 3,
+            "direction": "In a small bowl, whisk together 2 cups flour, baking powder and salt."
+        },
+        {
+            "step": 4,
+            "direction": "In a large bowl, cream margarine, and gradually mix in sugar."
+        },
+        {
+            "step": 5,
+            "direction": "Beat eggs, and stir into creamed mixture along with vanilla."
+        },
+        {
+            "step": 6,
+            "direction": "Stir in milk alternately with flour mixture, mixing well after each addition."
+        },
+        {
+            "step": 7,
+            "direction": "Fold in berries."
+        },
+        {
+            "step": 8,
+            "direction": "Fill muffin cups 2/3 full with batter."
+        },
+        {
+            "step": 9,
+            "direction": "Bake for 25 minutes."
+        }
+    ],
+    "footnotes": [],
+    "labels": [
+        "breakfast",
+        "fruit",
+        "grain"
+    ],
+    "servings": 0,
+    "calories": 127
+}
+{
+    "id": 6707,
+    "name": "Swedish Rye Bread I",
+    "ingredients": [
+        {
+            "descriptions": [
+                "0.6 ounce",
+                "fresh"
+            ],
+            "amount": 1.5,
+            "unit": "cakes",
+            "ingredient": "compressed yeast",
+            "labels": [
+                "baking ingredient"
+            ]
+        },
+        {
+            "descriptions": [
+                "warm"
+            ],
+            "amount": 1.5,
+            "unit": "cups",
+            "ingredient": "water",
+            "labels": [
+                "cooking liquid"
+            ]
+        },
+        {
+            "descriptions": [
+                "warm"
+            ],
+            "amount": 1.5,
+            "unit": "cups",
+            "ingredient": "milk",
+            "labels": [
+                "fat and vitamins",
+                "dairy"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 1,
+            "unit": "tablespoons",
+            "ingredient": "salt",
+            "labels": [
+                "spice or herb"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 6,
+            "unit": "cups",
+            "ingredient": "bread flour",
+            "labels": [
+                "baking ingredient",
+                "grain"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 0.25,
+            "unit": "cups",
+            "ingredient": "molasses",
+            "labels": [
+                "sugar"
+            ]
+        },
+        {
+            "descriptions": [
+                "packed"
+            ],
+            "amount": 1,
+            "unit": "cups",
+            "ingredient": "brown sugar",
+            "labels": [
+                "sugar",
+                "vegetable"
+            ]
+        },
+        {
+            "descriptions": [
+                "melted"
+            ],
+            "amount": 0.3333333333333333,
+            "unit": "cups",
+            "ingredient": "shortening",
+            "labels": [
+                "cooking fat"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 3,
+            "unit": "cups",
+            "ingredient": "rye flour",
+            "labels": [
+                "baking ingredient"
+            ]
+        }
+    ],
+    "directions": [
+        {
+            "step": 0,
+            "direction": "Dissolve yeast in warm water."
+        },
+        {
+            "step": 1,
+            "direction": "Scald milk."
+        },
+        {
+            "step": 2,
+            "direction": "Transfer milk to a large bowl, and add salt, molasses, brown sugar, and melted shortening."
+        },
+        {
+            "step": 3,
+            "direction": "Cool to lukewarm, and add dissolved yeast."
+        },
+        {
+            "step": 4,
+            "direction": "Add rye flour, beating with mixer."
+        },
+        {
+            "step": 5,
+            "direction": "Gradually beat in white flour."
+        },
+        {
+            "step": 6,
+            "direction": "Place dough in a greased bowl, and turn to coat the surface."
+        },
+        {
+            "step": 7,
+            "direction": "Cover with a damp towel, and allow to rise till double in bulk in a warm place."
+        },
+        {
+            "step": 8,
+            "direction": "Punch down the dough, and place on a lightly floured board."
+        },
+        {
+            "step": 9,
+            "direction": "Knead until dough becomes elastic, and does not stick to the board."
+        },
+        {
+            "step": 10,
+            "direction": "Allow to rest for 5 minutes."
+        },
+        {
+            "step": 11,
+            "direction": "Divide into 3 equal portions, and shape into loaves."
+        },
+        {
+            "step": 12,
+            "direction": "Place in greased 9 x 5 inch bread pans."
+        },
+        {
+            "step": 13,
+            "direction": "Let rise until double in bulk."
+        },
+        {
+            "step": 14,
+            "direction": "Bake at 375 degrees F (190 degrees C) for 35 to 40 minutes."
+        }
+    ],
+    "footnotes": [],
+    "labels": [
+        "bread"
+    ],
+    "servings": 0,
+    "calories": 84
+}
+{
+    "id": 6708,
+    "name": "Bran Muffins I",
+    "ingredients": [
+        {
+            "descriptions": [],
+            "amount": 2,
+            "unit": "cups",
+            "ingredient": "raisin bran cereal",
+            "labels": [
+                "grain",
+                "fruit"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 4,
+            "unit": "cups",
+            "ingredient": "whole bran cereal",
+            "labels": [
+                "grain"
+            ]
+        },
+        {
+            "descriptions": [
+                "boiling"
+            ],
+            "amount": 2,
+            "unit": "cups",
+            "ingredient": "water",
+            "labels": [
+                "cooking liquid"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 1,
+            "unit": "cups",
+            "ingredient": "shortening",
+            "labels": [
+                "cooking fat"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 3,
+            "unit": "cups",
+            "ingredient": "white sugar",
+            "labels": [
+                "sugar"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 4,
+            "unit": "",
+            "ingredient": "eggs",
+            "labels": [
+                "baking ingredient"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 4,
+            "unit": "cups",
+            "ingredient": "buttermilk",
+            "labels": [
+                "fat and vitamins",
+                "dairy"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 5,
+            "unit": "cups",
+            "ingredient": "all purpose flour",
+            "labels": [
+                "baking ingredient"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 5,
+            "unit": "teaspoons",
+            "ingredient": "baking soda",
+            "labels": [
+                "baking ingredient",
+                "drink"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 1.5,
+            "unit": "teaspoons",
+            "ingredient": "salt",
+            "labels": [
+                "spice or herb"
+            ]
+        }
+    ],
+    "directions": [
+        {
+            "step": 0,
+            "direction": "Mix cereal and boiling water together in a metal bowl, and allow to cool."
+        },
+        {
+            "step": 1,
+            "direction": "Cream shortening, sugar, and eggs in a large bowl."
+        },
+        {
+            "step": 2,
+            "direction": "Add buttermilk and cooled cereal mixture."
+        },
+        {
+            "step": 3,
+            "direction": "Combine flour, baking soda, and salt; stir into the creamed mixture until flour is moistened."
+        },
+        {
+            "step": 4,
+            "direction": "Batter should be lumpy."
+        },
+        {
+            "step": 5,
+            "direction": "Put batter into a one gallon wide mouth jar."
+        },
+        {
+            "step": 6,
+            "direction": "When using mix, use a ladle to get batter out of the jar; don't mix or stir."
+        },
+        {
+            "step": 7,
+            "direction": "When ready to use, spoon batter into muffin tins."
+        },
+        {
+            "step": 8,
+            "direction": "Bake at 375 degrees F (195 degrees C) for approximately 15 minutes."
+        }
+    ],
+    "footnotes": [],
+    "labels": [
+        "breakfast",
+        "grain"
+    ],
+    "servings": 0,
+    "calories": 218
+}
+{
+    "id": 6709,
+    "name": "Zucchini Walnut Bread",
+    "ingredients": [
+        {
+            "descriptions": [
+                "chopped"
+            ],
+            "amount": 1,
+            "unit": "cups",
+            "ingredient": "walnuts",
+            "labels": [
+                "nut"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 4,
+            "unit": "",
+            "ingredient": "eggs",
+            "labels": [
+                "baking ingredient"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 2,
+            "unit": "cups",
+            "ingredient": "white sugar",
+            "labels": [
+                "sugar"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 1,
+            "unit": "cups",
+            "ingredient": "vegetable oil",
+            "labels": [
+                "vegetable",
+                "cooking liquid"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 3.5,
+            "unit": "cups",
+            "ingredient": "all purpose flour",
+            "labels": [
+                "baking ingredient"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 1.5,
+            "unit": "teaspoons",
+            "ingredient": "baking soda",
+            "labels": [
+                "baking ingredient",
+                "drink"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 1.5,
+            "unit": "teaspoons",
+            "ingredient": "salt",
+            "labels": [
+                "spice or herb"
+            ]
+        },
+        {
+            "descriptions": [
+                "ground"
+            ],
+            "amount": 1,
+            "unit": "teaspoons",
+            "ingredient": "cinnamon",
+            "labels": [
+                "spice or herb"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 0.75,
+            "unit": "teaspoons",
+            "ingredient": "baking powder",
+            "labels": [
+                "spice or herb",
+                "baking ingredient"
+            ]
+        },
+        {
+            "descriptions": [
+                "grated"
+            ],
+            "amount": 2,
+            "unit": "cups",
+            "ingredient": "zucchini",
+            "labels": [
+                "vegetable"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 1,
+            "unit": "cups",
+            "ingredient": "raisins",
+            "labels": [
+                "fruit"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 1,
+            "unit": "teaspoons",
+            "ingredient": "vanilla extract",
+            "labels": [
+                "spice or herb",
+                "flavoring"
+            ]
+        }
+    ],
+    "directions": [
+        {
+            "step": 0,
+            "direction": "Whisk together flour, baking soda, salt, cinnamon, and baking powder."
+        },
+        {
+            "step": 1,
+            "direction": "In a large bowl, beat the eggs."
+        },
+        {
+            "step": 2,
+            "direction": "Gradually beat in sugar, then oil."
+        },
+        {
+            "step": 3,
+            "direction": "Add flour mixture alternately with zucchini  into the egg mixture."
+        },
+        {
+            "step": 4,
+            "direction": "Stir in the raisins, walnuts, and vanilla."
+        },
+        {
+            "step": 5,
+            "direction": "Pour batter into two 9 x 5 inch greased and lightly floured loaf pans."
+        },
+        {
+            "step": 6,
+            "direction": "Bake on lowest rack of the oven at 350 degrees F (175 degrees C) for 55 minutes."
+        },
+        {
+            "step": 7,
+            "direction": "Let cool for 10 minutes in the pan, then turn out onto racks to cool completely."
+        },
+        {
+            "step": 8,
+            "direction": "To freeze, wrap loaves in plastic wrap, and then wrap in heavy freezer paper."
+        },
+        {
+            "step": 9,
+            "direction": "Will keep indefinitely."
+        }
+    ],
+    "footnotes": [],
+    "labels": [
+        "nut",
+        "vegetable",
+        "bread"
+    ],
+    "servings": 0,
+    "calories": 276
+}
+{
+    "id": 6710,
+    "name": "Apricot Nut Bread",
+    "ingredients": [
+        {
+            "descriptions": [
+                "15 ounce",
+                "halves"
+            ],
+            "amount": 1,
+            "unit": "cans",
+            "ingredient": "apricot",
+            "labels": [
+                "fruit"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 0.3333333333333333,
+            "unit": "cups",
+            "ingredient": "shortening",
+            "labels": [
+                "cooking fat"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 0.5,
+            "unit": "cups",
+            "ingredient": "white sugar",
+            "labels": [
+                "sugar"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 2,
+            "unit": "",
+            "ingredient": "eggs",
+            "labels": [
+                "baking ingredient"
+            ]
+        },
+        {
+            "descriptions": [
+                "sifted"
+            ],
+            "amount": 1.75,
+            "unit": "cups",
+            "ingredient": "all purpose flour",
+            "labels": [
+                "baking ingredient"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 1,
+            "unit": "teaspoons",
+            "ingredient": "baking powder",
+            "labels": [
+                "spice or herb",
+                "baking ingredient"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 0.5,
+            "unit": "teaspoons",
+            "ingredient": "baking soda",
+            "labels": [
+                "baking ingredient",
+                "drink"
+            ]
+        },
+        {
+            "descriptions": [],
+            "amount": 0.5,
+            "unit": "teaspoons",
+            "ingredient": "salt",
+            "labels": [
+                "spice or herb"
+            ]
+        },
+        {
+            "descriptions": [
+                "chopped"
+            ],
+            "amount": 0.5,
+            "unit": "cups",
+            "ingredient": "walnuts",
+            "labels": [
+                "nut"
+            ]
+        }
+    ],
+    "directions": [
+        {
+            "step": 0,
+            "direction": "Drain apricots, and save syrup."
+        },
+        {
+            "step": 1,
+            "direction": "Puree apricots in a food processor, adding syrup if necessary to make 1 cup."
+        },
+        {
+            "step": 2,
+            "direction": "Whisk together the flour, baking powder, soda, and salt."
+        },
+        {
+            "step": 3,
+            "direction": "In a large bowl, cream together shortening and sugar."
+        },
+        {
+            "step": 4,
+            "direction": "Add eggs one at a time, and beat fill fluffy."
+        },
+        {
+            "step": 5,
+            "direction": "Add flour mixture alternately with apricot puree to the creamed mixture."
+        },
+        {
+            "step": 6,
+            "direction": "Stir in nuts."
+        },
+        {
+            "step": 7,
+            "direction": "Spread batter into a greased and floured 9 x 5 loaf pan."
+        },
+        {
+            "step": 8,
+            "direction": "Bake at 350 degrees F (175 degrees C) for 50 minutes."
+        },
+        {
+            "step": 9,
+            "direction": "Remove from pan, and cool on a rack."
+        }
+    ],
+    "footnotes": [],
+    "labels": [
+        "main protein",
+        "fruit",
+        "bread"
+    ],
+    "servings": 0,
+    "calories": 222
 }
