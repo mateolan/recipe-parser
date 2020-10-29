@@ -1,9 +1,18 @@
+# Modifications
+* Listed dependencies in `requirements.txt`
+* Removed non-utf-8 compliant characters from `allIngredients.txt`
+* Changed point from which servings data is retrieved
+* Recipes with any missing parameters are skipped
+* For each recipe, added:
+    * nutritional information
+    * unparsed ingredients
+    * unparsed steps
 # Recipe Parser
 Author: Kevin Broh-Kahn
 Language: Python (HTML and CSS used for web application)
 
 ## Use Online Application
-Click [here](http://kevinbrohkahn.com/projects/view-recipes) to visit the website containing the Recipe Parser application. 
+Click [here](http://kevinbrohkahn.com/projects/view-recipes) to visit the website containing the Recipe Parser application.
 
 ## Parse Recipes and Get JSON File
 To parse recipes from [allrecipes.com](http://allrecipes.com/), first download the repository. Then download Python 3 (the parser was used with version 3.5.0, unfortunately I don't think it works with Python 2) and install on your computer.

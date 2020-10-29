@@ -8,7 +8,7 @@
 24 karat gold dust
 7 grain cereal
 97% Fat Free ham
-ALBERS® White or Yellow Corn Meal
+ALBERS White or Yellow Corn Meal
 ALMOND BREAD CRUMBS
 Acesulfame Potassium sweetener
 Alaskan king crab legs
@@ -29,31 +29,31 @@ Asafoetida
 Asiago cheese
 Asian dressing
 BEAN SOUP MIX
-BETTY CROCKER ® Fudge Brownie Mix
+BETTY CROCKER  Fudge Brownie Mix
 BOTTOM LAYER
 BOURBON ICE CREAM
-Baby Ruth ™ candy bars
+Baby Ruth  candy bars
 Bartlett pears
 Basic Cookie Mix
 Basic Crepes
 Basmati rice
 Bavarian sauerkraut undrained
-Beau Monde ™ seasoning
+Beau Monde  seasoning
 Belgian endive
 Belgian endive leaves
 Bermuda onion
+Betty Crocker  Banana Quickbread Mix
+Betty Crocker  Cranberry Orange Quickbread Mix
+Betty Crocker  Gingerbread Cake Cookie Mix
+Betty Crocker  Rich & Creamy chocolate ready to spread frosting
+Betty Crocker  Rich Creamy butter cream ready to spread frosting
+Betty Crocker  Rich Creamy vanilla ready to spread frosting
+Betty Crocker  SuperMoist  Rainbow Chip Cake Mix
+Betty Crocker  SuperMoist butter recipe yellow cake mix
+Betty Crocker  Supermoist  holiday swirl cake mix
+Betty Crocker Original Supreme brownie mix
 Betty Crocker Rich Creamy Sour Cream Frosting ready to spread
-Betty Crocker ® Banana Quickbread Mix
-Betty Crocker ® Cranberry Orange Quickbread Mix
-Betty Crocker ® Gingerbread Cake Cookie Mix
-Betty Crocker ® Rich & Creamy chocolate ready to spread frosting
-Betty Crocker ® Rich Creamy butter cream ready to spread frosting
-Betty Crocker ® Rich Creamy vanilla ready to spread frosting
-Betty Crocker ® SuperMoist butter recipe yellow cake mix
-Betty Crocker ® SuperMoist ® Rainbow Chip Cake Mix
-Betty Crocker ® Supermoist ® holiday swirl cake mix
-Betty Crocker® Original Supreme brownie mix
-Betty Crocker® Wild Blueberry Muffin Mix
+Betty Crocker Wild Blueberry Muffin Mix
 Bibb lettuce
 Bing cherries
 Blue Curacao
@@ -68,7 +68,7 @@ Burgundy wine
 COFFEE BUTTERCREAM
 COFFEE CREAM FILLING
 COFFEE SYRUP
-CROSSE & BLACKWELL® Hot Mango Chutney
+CROSSE & BLACKWELL Hot Mango Chutney
 Caesar dressing
 Cajun seasoning
 California avocado
@@ -125,7 +125,7 @@ Creole smoked sausage
 Crushed red white mint candies
 Curry powder to taste
 Decorator sprinkles or candies
-Deli LAND O LAKES® Jalapeno Cheese Food product
+Deli LAND O LAKES Jalapeno Cheese Food product
 Diced tomatoes
 Dijon mustard
 Dijon mustard mayonnaise blend
@@ -134,7 +134,7 @@ Dry Mix Ingredients
 Dungeness crabmeat
 Durum wheat flour
 Dutch process cocoa powder
-EAGLE BRAND® Sweetened Condensed Milk
+EAGLE BRAND Sweetened Condensed Milk
 Emmentaler cheese
 English cucumber
 English cucumbers
@@ -168,9 +168,9 @@ French vanilla ice cream
 French vanilla yogurt
 Fresh raspberries
 Friendship Fruit Starter
-Fritos® corn chips
+Fritos corn chips
 Frosting or whipped cream
-Fruit Roll Ups® strawberry fruit rolls
+Fruit Roll Ups strawberry fruit rolls
 Fuji apples
 Fuyu persimmons
 GARLIC BUTTER
@@ -184,7 +184,7 @@ German chocolate cake mix
 German stone mustard to taste
 German sweet chocolate
 German sweet chocolate chips
-Gold Medal® all purpose flour
+Gold Medal all purpose flour
 Golden Delicious apple
 Golden Delicious apples
 Gorgonzola cheese
@@ -202,25 +202,25 @@ Green olive
 Ground white pepper
 Gruyere cheese
 Guacamole
-HERSHEY®'S Chocolate Syrup
-HERSHEY®'S Cinnamon Chips
-HERSHEY®'S Classic Caramels
-HERSHEY®'S Cocoa Powder
-HERSHEY®'S Cocoa or HERSHEY®'S Dutch Processed Cocoa
-HERSHEY®'S Dutch Processed Cocoa
-HERSHEY®'S HUGS® Chocolates
-HERSHEY®'S Holiday Candy Coated Bits
-HERSHEY®'S Jolly Jellies Sweet Fruity Candies
-HERSHEY®'S KISSES®
-HERSHEY®'S KISSES® Milk Chocolates
-HERSHEY®'S MINI CHIPS™ Semisweet Chocolate
-HERSHEY®'S MINI KISSES™ Milk Chocolate Baking Pieces
-HERSHEY®'S MINI KISSES™ Semisweet Baking Pieces
-HERSHEY®'S Milk Chocolate Bar
-HERSHEY®'S Premier White Chips
-HERSHEY®'S ROLO® Chocolate Caramel Candy
-HERSHEY®'S Semi Sweet Chocolate Chips
-HERSHEY®'S Unsweetened Baking Chocolate
+HERSHEY'S Chocolate Syrup
+HERSHEY'S Cinnamon Chips
+HERSHEY'S Classic Caramels
+HERSHEY'S Cocoa Powder
+HERSHEY'S Cocoa or HERSHEY'S Dutch Processed Cocoa
+HERSHEY'S Dutch Processed Cocoa
+HERSHEY'S HUGS Chocolates
+HERSHEY'S Holiday Candy Coated Bits
+HERSHEY'S Jolly Jellies Sweet Fruity Candies
+HERSHEY'S KISSES
+HERSHEY'S KISSES Milk Chocolates
+HERSHEY'S MINI CHIPS Semisweet Chocolate
+HERSHEY'S MINI KISSES Milk Chocolate Baking Pieces
+HERSHEY'S MINI KISSES Semisweet Baking Pieces
+HERSHEY'S Milk Chocolate Bar
+HERSHEY'S Premier White Chips
+HERSHEY'S ROLO Chocolate Caramel Candy
+HERSHEY'S Semi Sweet Chocolate Chips
+HERSHEY'S Unsweetened Baking Chocolate
 HONEY CINNAMON ICE CREAM
 Hard peppermint candy or candy canes
 Havarti cheese
@@ -259,33 +259,34 @@ JOCONDE BISCUIT
 Japanese sushi rice
 Jarlsberg cheese
 Jerusalem artichokes
-Johnsonville® Three Cheese Italian Style Chicken Sausage
+Johnsonville Three Cheese Italian Style Chicken Sausage
+Kalamata olives
 Kentucky Fruit Filling
-LAND O LAKES ® Hot Pepper Monterey Jack cheese
-LAND O LAKES ® Light Sour Cream
-LAND O LAKES ® Sour Cream
-LAND O LAKES® Butter
-LAND O LAKES® Butter softened
-LAND O LAKES® Cheddar Cheese
-LAND O LAKES® Deli American Cheese OR Monterey Jack cheese
-LAND O LAKES® Gourmet Heavy Whipping Cream
-LAND O LAKES® Gourmet Heavy Whipping Cream whipped
-LAND O LAKES® Hot Pepper Monterey Jack Cheese
-LAND O LAKES® Light Sour Cream
-LAND O LAKES® Sour Cream
-LAND O LAKES® Ultra Creamy® Butter
-LIBBY'S® 100% Pure Pumpkin
+LAND O LAKES  Hot Pepper Monterey Jack cheese
+LAND O LAKES  Light Sour Cream
+LAND O LAKES  Sour Cream
+LAND O LAKES Butter
+LAND O LAKES Butter softened
+LAND O LAKES Cheddar Cheese
+LAND O LAKES Deli American Cheese OR Monterey Jack cheese
+LAND O LAKES Gourmet Heavy Whipping Cream
+LAND O LAKES Gourmet Heavy Whipping Cream whipped
+LAND O LAKES Hot Pepper Monterey Jack Cheese
+LAND O LAKES Light Sour Cream
+LAND O LAKES Sour Cream
+LAND O LAKES Ultra Creamy Butter
+LIBBY'S 100% Pure Pumpkin
 Lady Baltimore Frosting
-Laughing Cow® Light Creamy Swiss wedges
+Laughing Cow Light Creamy Swiss wedges
 Lemon Custard Filling
 Lillet blanc
 Locatella cheese
 Louisiana hot sauce
 Louisiana hot sauce or to taste
-MAGGI® Chicken Bouillon Cube
+MAGGI Chicken Bouillon Cube
 MEAT FILLING
 MEAT SEASONING
-MOUNDS® Sweetened Coconut Flakes
+MOUNDS Sweetened Coconut Flakes
 Macintosh apples
 Madeira wine
 Make Ahead Cookie Mix
@@ -308,61 +309,61 @@ Mexican vanilla extract
 Mint
 Mizithra cheese
 Monterey Jack cheese
-Mountain Dew™
+Mountain Dew
 Muenster cheese
-NESTLE® CARNATION® Evaporated Lowfat Milk
-NESTLE® CARNATION® Evaporated Milk
-NESTLE® TOLL HOUSE® Baking Cocoa
-NESTLE® TOLL HOUSE® Butterscotch Flavored Morsels
-NESTLE® TOLL HOUSE® Choco Bake Unsweetened Chocolate Flavor
-NESTLE® TOLL HOUSE® Milk Chocolate Morsels
-NESTLE® TOLL HOUSE® Premier White Baking Chocolate
-NESTLE® TOLL HOUSE® Premier White Morsels
-NESTLE® TOLL HOUSE® Semi Sweet Chocolate Chunks
-NESTLE® TOLL HOUSE® Semi Sweet Chocolate Covered Raisins
-NESTLE® TOLL HOUSE® Semi Sweet Chocolate Mini Morsels
-NESTLE® TOLL HOUSE® Semi Sweet Chocolate Morsels
-NESTLE® TOLL HOUSE® Semi Sweet Chocolate Morsels melted
-NESTLE® TOLL HOUSE® Unsweetened Chocolate Baking Bar
+NESTLE CARNATION Evaporated Lowfat Milk
+NESTLE CARNATION Evaporated Milk
+NESTLE TOLL HOUSE Baking Cocoa
+NESTLE TOLL HOUSE Butterscotch Flavored Morsels
+NESTLE TOLL HOUSE Choco Bake Unsweetened Chocolate Flavor
+NESTLE TOLL HOUSE Milk Chocolate Morsels
+NESTLE TOLL HOUSE Premier White Baking Chocolate
+NESTLE TOLL HOUSE Premier White Morsels
+NESTLE TOLL HOUSE Semi Sweet Chocolate Chunks
+NESTLE TOLL HOUSE Semi Sweet Chocolate Covered Raisins
+NESTLE TOLL HOUSE Semi Sweet Chocolate Mini Morsels
+NESTLE TOLL HOUSE Semi Sweet Chocolate Morsels
+NESTLE TOLL HOUSE Semi Sweet Chocolate Morsels melted
+NESTLE TOLL HOUSE Unsweetened Chocolate Baking Bar
 Neufchatel cheese
 New England clam chowder
 New Mexico chili powder
 New Mexico red chili powder
 New York steaks thick
-OLD BAY® Seasoning
-ORTEGA® Burrito Seasoning Mix
-ORTEGA® Chopped Green Chiles
-ORTEGA® Diced Green Chiles
-ORTEGA® Diced Jalapenos
-ORTEGA® Enchilada Sauce
-ORTEGA® Fajita Seasoning Mix
-ORTEGA® Fat Free Refried Beans
-ORTEGA® Garden Style Salsa
-ORTEGA® Green Chile Picante Sauce
-ORTEGA® Pickled Jalapeno Slices
-ORTEGA® Refried Beans
-ORTEGA® Salsa Prima ™ Mexican Style
-ORTEGA® Salsa Prima™
-ORTEGA® Salsa Prima™ Homestyle Mild
-ORTEGA® Taco Seasoning Mix
-ORTEGA® Taco Seasoning mix
-ORTEGA® Taco Shells
-ORTEGA® Thick & Chunky Salsa
-ORTEGA® Thick & Smooth Taco Sauce
-ORTEGA® Tostada Shells
-ORTEGA® Whole Green Chiles
-ORTEGA® Whole Jalapenos
+OLD BAY Seasoning
+ORTEGA Burrito Seasoning Mix
+ORTEGA Chopped Green Chiles
+ORTEGA Diced Green Chiles
+ORTEGA Diced Jalapenos
+ORTEGA Enchilada Sauce
+ORTEGA Fajita Seasoning Mix
+ORTEGA Fat Free Refried Beans
+ORTEGA Garden Style Salsa
+ORTEGA Green Chile Picante Sauce
+ORTEGA Pickled Jalapeno Slices
+ORTEGA Refried Beans
+ORTEGA Salsa Prima
+ORTEGA Salsa Prima  Mexican Style
+ORTEGA Salsa Prima Homestyle Mild
+ORTEGA Taco Seasoning Mix
+ORTEGA Taco Seasoning mix
+ORTEGA Taco Shells
+ORTEGA Thick & Chunky Salsa
+ORTEGA Thick & Smooth Taco Sauce
+ORTEGA Tostada Shells
+ORTEGA Whole Green Chiles
+ORTEGA Whole Jalapenos
 OTHER SOUP INGREDIENTS
+Old Bay  Seasoning
+Old Bay Seasoning
 Old Bay Seasoning TM
 Old Bay Seasoning TM or to taste
 Old Bay Seasoning TM to taste
-Old Bay Seasoning™
 Old Bay TM seasoning
-Old Bay ™ Seasoning
 Orange Cream Frosting
 Orange to garnish
 Oriental flavored ramen noodles
-Original Bisquick® mix
+Original Bisquick mix
 PEANUT SAUCE
 Parma ham
 Parmesan cheese
@@ -385,18 +386,18 @@ Potato Cheese Filling
 Powdered sugar
 Puerto Rican white rum
 RANCH SAUCE
-REESE'S PIECES® Candies
-REESE'S® Creamy Peanut Butter
-REESE'S® Creamy or Crunchy Peanut Butter
-REESE'S® Peanut Butter Chips
-REESE'S® Peanut Butter Cups Miniatures
+REESE'S Creamy Peanut Butter
+REESE'S Creamy or Crunchy Peanut Butter
+REESE'S PIECES Candies
+REESE'S Peanut Butter Chips
+REESE'S Peanut Butter Cups Miniatures
 Radicchio
 Ranch dressing
 Raspberry Sauce
 Red Delicious apples
-Red Green Silver Foil Wrapped HERSHEY®'S KISSES
+Red Green Silver Foil Wrapped HERSHEY'S KISSES
 Red Leicester cheese
-Reduced Fat Bisquick®
+Reduced Fat Bisquick
 Reggiano Parmesan cheese
 Ripe olive
 Rock Cornish hens
@@ -406,19 +407,19 @@ Romano cheese
 Rome Beauty apples
 Roquefort cheese
 Russian dressing
-SARGENTO® 4 Cheese Mexican Blend
-SARGENTO® 4 Cheese Mexican Blend Shredded Cheese
-SARGENTO® 6 Cheese Zesty Mexican™ Blend
-SARGENTO® ChefStyle Shredded Cheddar Cheese
-SARGENTO® ChefStyle Shredded Mild Cheddar Cheese
-SARGENTO® ChefStyle Shredded Mild Cheddar Cheese lettuce green onions olives
-SARGENTO® Fancy Shredded Colby Jack Cheese
-SARGENTO® Fancy Shredded Mild Cheddar Cheese
-SARGENTO® Fancy Shredded Monterey Jack Cheese
-SARGENTO® Light 4 Cheese Mexican Blend
-SARGENTO® Nacho & Taco Blend Shredded Cheese
-SARGENTO® Natural Shredded Cheddar Cheese
-SKOR® English Toffee Bits
+SARGENTO 4 Cheese Mexican Blend
+SARGENTO 4 Cheese Mexican Blend Shredded Cheese
+SARGENTO 6 Cheese Zesty Mexican Blend
+SARGENTO ChefStyle Shredded Cheddar Cheese
+SARGENTO ChefStyle Shredded Mild Cheddar Cheese
+SARGENTO ChefStyle Shredded Mild Cheddar Cheese lettuce green onions olives
+SARGENTO Fancy Shredded Colby Jack Cheese
+SARGENTO Fancy Shredded Mild Cheddar Cheese
+SARGENTO Fancy Shredded Monterey Jack Cheese
+SARGENTO Light 4 Cheese Mexican Blend
+SARGENTO Nacho & Taco Blend Shredded Cheese
+SARGENTO Natural Shredded Cheddar Cheese
+SKOR English Toffee Bits
 STUFFED CHILES
 Salsa Verde flavored tortilla chips
 Salt to taste
@@ -447,9 +448,9 @@ Sweetened whipped cream
 Swiss Gruyere cheese
 Swiss cheese
 TART SHELLS
-TASTER'S CHOICE® 100% Pure Instant Coffee
+TASTER'S CHOICE 100% Pure Instant Coffee
 TOP LAYER
-TWIZZLERS® Strawberry Licorice Twists
+TWIZZLERS Strawberry Licorice Twists
 Thai basil
 Thai chili sauce
 Thai chilis
@@ -467,7 +468,7 @@ Water to cover
 White clam sauce
 Williamsburg Butter Frosting
 Worcestershire sauce
-YORK ® Peppermint Pattie
+YORK  Peppermint Pattie
 Yukon Gold potatoes
 absinthe
 achiote seeds
@@ -549,7 +550,7 @@ applesauce baby food
 apricot
 apricot baby food
 apricot brandy
-apricot flavored Jell-O® mix
+apricot flavored Jell-O mix
 apricot jam
 apricot nectar
 apricot preserves
@@ -574,7 +575,7 @@ aspartame sweetener
 assorted chicken parts
 assorted colors of paste food coloring
 assorted food coloring
-assorted fruit flavored Jell-O® mix
+assorted fruit flavored Jell-O mix
 au gratin instant potato mix
 au jus gravy mix
 avocado
@@ -742,7 +743,7 @@ black beans
 black beans drain reserve liquid
 black beans overnight
 black beans undrained
-black cherry flavored Jell-O® mix
+black cherry flavored Jell-O mix
 black cherry soda
 black cod fillets
 black eyed peas
@@ -765,9 +766,10 @@ black tea
 black walnut extract
 black walnuts
 blackberries
-blackberry Jell-O®
+blackberry Jell-O
+blackberry Jell-OÂ®
 blackberry brandy
-blackberry flavored Jell-O®
+blackberry flavored Jell-O
 blackberry jelly
 blackberry juice
 blackberry preserves
@@ -1128,14 +1130,14 @@ cheese spread
 cheese tortellini
 cherries
 cherries husked
-cherry Jell-O®
+cherry Jell-O
 cherry baking chips
 cherry brandy
 cherry brandy liqueur
 cherry cake mix
 cherry chip flavored cake mix
-cherry flavored Jell-O®
-cherry flavored Jell-O® mix
+cherry flavored Jell-O
+cherry flavored Jell-O mix
 cherry flavored sweetened drink mix
 cherry jam
 cherry juice
@@ -1515,7 +1517,7 @@ cranberries or other fruit
 cranberries picked through
 cranberry applesauce
 cranberry beans
-cranberry flavored Jell-O® mix
+cranberry flavored Jell-O mix
 cranberry juice
 cranberry juice cocktail
 cranberry juice concentrate
@@ -1777,7 +1779,7 @@ flat beer
 flat bottomed ice cream cones
 flat leaf parsley
 flat leaf spinach
-flavored Jell-O®
+flavored Jell-O
 flax seed
 flax seed meal
 flax seeds
@@ -1809,7 +1811,7 @@ fructose sweetener
 fruit
 fruit cocktail
 fruit cocktail including syrup
-fruit flavored Jell-O® mix
+fruit flavored Jell-O mix
 fruit flavored candies
 fruit flavored cream cheese
 fruit flavored sherbet
@@ -2343,13 +2345,14 @@ leftover turkey
 leg of lamb
 leg of lamb meat
 lemon
-lemon Jell-O®
+lemon Jell-O
 lemon bar mix
 lemon cake mix
 lemon curd
 lemon extract
-lemon flavored Jell-O®
-lemon flavored Jell-O® mix
+lemon flavored Jell-O
+lemon flavored Jell-O mix
+lemon flavored Jell-OÂ®
 lemon flavored ice tea mix
 lemon flavored instant tea
 lemon flavored yogurt
@@ -2397,7 +2400,7 @@ lima beans
 lima beans undrained
 lime
 lime extract
-lime flavored Jell-O® mix
+lime flavored Jell-O mix
 lime garnish
 lime juice
 lime juice pulp
@@ -2597,6 +2600,7 @@ milk chocolate flavored topping
 milk chocolate frosting
 milk chocolate kisses
 milk crackers
+milk or more
 milk plus more
 milk powder
 millet
@@ -2794,8 +2798,9 @@ orange cake mix
 orange chewy fruit flavored candy
 orange decorator sugar
 orange extract
-orange flavored Jell-O®
-orange flavored Jell-O® mix
+orange flavored Jell-O
+orange flavored Jell-O mix
+orange flavored Jell-OÂ® mix
 orange flavored carbonated beverage
 orange flavored drink mix
 orange flavored fruit slice jelly candies
@@ -2815,7 +2820,7 @@ orange marmalade
 orange peach mango juice
 orange peels
 orange pekoe tea
-orange pineapple flavored Jell-O®
+orange pineapple flavored Jell-O
 orange roughy
 orange roughy fillets
 orange sectioned
@@ -2896,7 +2901,7 @@ pastry shells
 pea pods
 peach brandy
 peach daiquiri mix
-peach flavored Jell-O® mix
+peach flavored Jell-O mix
 peach flavored vodka
 peach glaze
 peach juice
@@ -3008,7 +3013,7 @@ pine nuts
 pine nuts or nuts
 pine nuts/pignoli
 pineapple
-pineapple Jell-O®
+pineapple Jell-O
 pineapple coconut nectar
 pineapple flavored cake mix
 pineapple fruit preserves
@@ -3263,7 +3268,7 @@ rapid rise yeast
 raspberries
 raspberries garnish
 raspberry cream soda
-raspberry flavored Jell-O® mix
+raspberry flavored Jell-O mix
 raspberry flavored liqueur
 raspberry ice cream
 raspberry jam
@@ -3297,7 +3302,7 @@ recipe ready tomatoes undrained
 reconstituted karengo
 rectangular shortbread cookies
 red Anjou pears
-red Jell-O® mix
+red Jell-O mix
 red Swiss chard
 red Thai curry paste
 red Zinfandel wine
@@ -3804,15 +3809,16 @@ strawberries cream instant oatmeal
 strawberries defrosted
 strawberries hulled
 strawberry Danish dessert mix
-strawberry Jell-O® mix
+strawberry Jell-O mix
 strawberry apricot or raspberry preserves
 strawberry cake mix
 strawberry cheesecake flavored yogurt
 strawberry daiquiri mixer
 strawberry extract
-strawberry flavored Jell-O®
-strawberry flavored Jell-O® mix
-strawberry flavored Jell-O® sugar free
+strawberry flavored Jell-O
+strawberry flavored Jell-O mix
+strawberry flavored Jell-O sugar free
+strawberry flavored Jell-OÂ®
 strawberry flavored carbonated beverage
 strawberry flavored cream cheese
 strawberry flavored syrup
@@ -3840,16 +3846,16 @@ sugar based curing mixture
 sugar cookie dough
 sugar cookie mix
 sugar cubes
-sugar free cherry flavored Jell-O® mix
+sugar free cherry flavored Jell-O mix
 sugar free chocolate fudge flavored instant pudding
 sugar free chocolate wafer cookie
 sugar free cook serve vanilla pudding
 sugar free instant pudding
 sugar free instant vanilla pudding
-sugar free lemon flavored Jell-O®
+sugar free lemon flavored Jell-O
 sugar free lemonade flavored drink mix
 sugar free organic apple juice
-sugar free strawberry flavored Jell-O®
+sugar free strawberry flavored Jell-O
 sugar free strawberry glaze
 sugar frosted corn flake cereal
 sugar pumpkin
@@ -4030,7 +4036,7 @@ tri tip roast
 triple berry vodka
 triple sec
 triple sec liqueur
-tropical fruit flavored Jell-O® mix
+tropical fruit flavored Jell-O mix
 truffle
 tube green decorating icing
 tube yellow frosting
@@ -4075,7 +4081,7 @@ unbleached all purpose flour
 unbleached bread flour
 unbleached flour
 undiluted orange juice concentrate
-unflavored Jell-O®
+unflavored Jell-O
 unflavored gelatin
 unopened live oysters
 unopened oysters
@@ -4229,7 +4235,7 @@ water tuna
 watercress
 watercress leaves
 watermelon
-watermelon flavored Jell-O®
+watermelon flavored Jell-O
 watermelon flavored syrup
 watermelon flesh
 watermelon rind
